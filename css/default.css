@@ -1,0 +1,164 @@
+/* css bienvenida y formularios */
+html, body {
+  height: 100%;
+  background-image: url("../img/fondo-ov_3.png"), linear-gradient(to right, rgba(245,245,245,1) 0%, rgba(0,159,199,1) 0%, rgba(0,159,199,1) 82%);
+  background-repeat: repeat, no-repeat;
+  margin-top: 0px;
+}
+
+#main {
+    width: 100%;
+    height: 100%;
+    display: -webkit-flex; /* Safari */
+    display: flex;
+}
+
+#mascotaInfo {
+  position: absolute;
+  height: 75%;
+  width: 26%;
+  top: 21%;
+  left: 20%;
+}
+
+#inside-main {
+  margin-top: inherit;
+}
+
+.popover {
+    border: 1px solid #000000;
+  }
+  /* Popover Body */
+  .popover-body {
+    font-size: 11px!important;
+}
+
+.columna {
+    display: flex;
+}
+
+.container-fluid {
+  background-image: url("img/fondo-ov_3.png"), linear-gradient(to right, rgba(245,245,245,1) 0%, rgba(0,159,199,1) 0%, rgba(0,159,199,1) 82%);
+  background-repeat: repeat, no-repeat;
+  height: 100%;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.col-left {
+  width: 70%;
+}
+
+.col-right {
+  width: 30%;
+  align-items: center;
+  justify-content: center;
+}
+
+.img-button{
+  cursor: pointer;
+  margin-bottom: 5%;
+  max-width: 150px;
+  max-height: 75px;
+  width: 100%;
+  height: 100%;
+
+}
+
+.alert-aviso {
+  color: #0b0b0b !important;
+  background-color: #a9cd251a !important;
+  border-color: #a9cd25 !important;
+  font-weight: bold;
+}
+
+#cedini {
+  font-size: 24px;
+}
+
+#logo-orienta2 {
+  width: 70%;
+}
+
+.img-bienvenida {
+  padding-bottom: 0.5rem;
+  max-width: 250px;
+  max-height: 125px;
+  width: 100%;
+  height: 100%;
+}
+
+.btn {
+    white-space: normal!important;
+}
+
+/* modal*/
+.modal-title {
+    color: #F8F4EF;
+    font-weight: bold;
+}
+
+.modal-body{
+  background-image: url("../img/fondo-ov.png") !important;
+   background-repeat: repeat !important;
+}
+
+.modal-body.registra, .registra .form-group {
+  padding: 1rem 1rem 0rem 1rem !important;
+}
+
+.modal-borders .modal-header {
+  border-bottom: 10px solid #a9cd25;
+}
+
+.modal-borders .modal-footer {
+  border-top: 10px solid #a9cd25;
+}
+.modal-header,  .modal-footer {
+    background-color: #009fc7;
+}
+.modal-header .close {
+    margin: -1rem 0rem -1rem auto;
+}
+
+.btn-modal-close, .btn-form {
+    color: #fff;
+    background-color: #F18C00;
+    border-color: #009fc7;
+    height: 100%;
+}
+
+.btn-form:hover, .btn-form:active, .btn-form:visited {
+  height: 100%!important;
+  font-weight: bold;
+}
+
+.button-reg:hover, .btn-primaria:hover {
+   -webkit-filter: brightness(120%) drop-shadow(4px 4px 6px gray); /* Safari */
+  filter: brightness(120%) drop-shadow(6px 6px 8px gray);
+}
+/* fin css para el modal */
+
+.form-imgbottom {
+  margin-bottom: 0em !important;
+}
+
+/* INCIO DE QUERIES */
+@media screen and (min-width: 447px) and (max-width: 700px)
+{
+  #main {
+    height: 75%
+  }
+}
+@media screen and (max-width: 446px)
+
+{
+  #main {
+    max-height: 360px;
+    height: 100%
+  }
+}
+/* fin */

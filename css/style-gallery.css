@@ -1,0 +1,120 @@
+#open-thumbs:checked ~ .reproductor__frame {
+  transition: 0.4s all;
+  width: 100%;
+}
+#open-thumbs:checked ~ .reproductor__frame > .reproductor__frame--label {
+  background-position: 0px 50%;
+}
+#open-thumbs:checked ~ .reproductor__thumbs {
+  box-sizing: border-box;
+  padding: 1% 3%;
+  transition: 0.4s all;
+  width: 25%;
+}
+.reproductor {
+  border: 3px solid darkgray;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+   border-radius: 5px;
+  display: block;
+  height: 350px;
+  margin: 20px auto;
+  /* max-width: 1024px; */
+  /* max-width: 100%; */
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+.reproductor .reproductor__checkbox {
+  display: none;
+}
+.reproductor .reproductor__frame {
+  height: 350px;
+  transition: 0.4s all;
+  overflow: hidden;
+  position: absolute;
+  width: 75%;
+  z-index: 2;
+}
+.reproductor .reproductor__frame iframe {
+  height: 350px;
+  width: 100%;
+  background-color: black;
+  border: 4px solid #1A1919!important;
+}
+.reproductor .reproductor__frame .reproductor__frame--label {
+  background-color: #333;
+  background-position: -40px 50%;
+  background-image: url("../img/asset-slide.png");
+  background-repeat: no-repeat;
+  border-radius: 10px 0px 0px 10px;
+  height: 40%;
+  position: absolute;
+  right: 0px;
+  top: 30%;
+  transition: 0.4s all;
+  width: 40px;
+  z-index: 999999;
+}
+.reproductor .reproductor__thumbs {
+  box-sizing: border-box;
+  height: 100%;
+  overflow: auto;
+  /* padding: 1% 3%; */
+  position: absolute;
+  right: 0px;
+  transition: 0.4s all;
+  width: 25%;
+  z-index: 1;
+  background-color: black;
+}
+.reproductor .reproductor__thumbs ul {
+  padding: 0px;
+}
+.reproductor .reproductor__thumbs ul li {
+  cursor: pointer;
+  list-style: none;
+  position: relative;
+  width: 100%;
+}
+.reproductor .reproductor__thumbs ul li figure {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 100%;
+}
+.reproductor .reproductor__thumbs ul li figure figcaption {
+  background: rgba(214, 212, 212, 0.8);
+  bottom: 6px;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 13px;
+  height: 40px;
+  padding: 5px;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+.reproductor .reproductor__thumbs ul li figure img {
+  height: auto;
+  width: 100%;
+}
+
+/* INCIO DE QUERIES */
+@media screen and (min-width: 447px) and (max-width: 760px)
+{
+  .reproductor .reproductor__thumbs ul li figure figcaption {
+    bottom: 4px;
+    font-size: 10px;
+    height: 20px;
+    padding: 5px;
+  }
+}
+@media screen and (max-width: 446px)
+
+{
+    .reproductor .reproductor__thumbs ul li figure figcaption {
+      display: none;
+    }
+}

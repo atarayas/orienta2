@@ -1,0 +1,348 @@
+[
+  {
+     "idProvincia":"1",
+     "canton":"Alfaro Ruiz"
+  },
+  {
+    "idProvincia":"1",
+    "canton": "Atenas"
+  },
+  {
+    "idProvincia":"1",
+    "canton":"Grecia"
+  },
+  {
+    "idProvincia":"1",
+    "canton":"Guatuso"
+  },
+  {
+    "idProvincia":"1",
+    "canton":"Los Chiles"
+  },
+  {
+    "idProvincia":"1",
+    "canton":"Naranjo"
+  },
+  {
+    "idProvincia":"1",
+    "canton":"Orotina"
+  },
+  {
+    "idProvincia":"1",
+    "canton":"Palmares"
+  },
+  {
+    "idProvincia":"1",
+    "canton":"Poás"
+  },
+  {
+    "idProvincia":"1",
+    "canton":"San Carlos"
+  },
+  {
+    "idProvincia":"1",
+    "canton":"San Mateo"
+  },
+  {
+    "idProvincia":"1",
+    "canton":"San Ramón"
+  },
+  {
+    "idProvincia":"1",
+    "canton":"Upala"
+  },
+  {
+    "idProvincia":"1",
+    "canton":"Valverde Vega"
+  },
+  {
+    "idProvincia":"2",
+    "canton":"Alvarado"
+  },
+  {
+    "idProvincia":"2",
+    "canton":"Cartago"
+  },
+  {
+    "idProvincia":"2",
+    "canton":"El Guarco"
+  },
+  {
+    "idProvincia":"2",
+    "canton":"Jiménez"
+  },
+  {
+    "idProvincia":"2",
+    "canton":"La Unión"
+  },
+  {
+    "idProvincia":"2",
+    "canton":"Oreamuno"
+  },
+  {
+    "idProvincia":"2",
+    "canton":"Paraíso"
+  },
+  {
+    "idProvincia":"2",
+    "canton":"San Isidro"
+  },
+  {
+    "idProvincia":"2",
+    "canton":"Santa Cruz"
+  },
+  {
+    "idProvincia":"2",
+    "canton":"Turrialba"
+  },
+  {
+    "idProvincia":"3",
+    "canton":"Abangares"
+  },
+  {
+    "idProvincia":"3",
+    "canton":"Bagaces"
+  },
+  {
+    "idProvincia":"3",
+    "canton":"Cañas"
+  },
+  {
+    "idProvincia":"3",
+    "canton":"Carrillo"
+  },
+  {
+    "idProvincia":"3",
+    "canton":"Hojancha"
+  },
+  {
+    "idProvincia":"3",
+    "canton":"La Cruz"
+  },
+  {
+    "idProvincia":"3",
+    "canton":"Liberia"
+  },
+  {
+    "idProvincia":"3",
+    "canton":"Nandayure"
+  },
+  {
+    "idProvincia":"3",
+    "canton":"Nicoya"
+  },
+  {
+    "idProvincia":"3",
+    "canton":"Santa Cruz"
+  },
+  {
+    "idProvincia":"3",
+    "canton":"Tilarán"
+  },
+  {
+    "idProvincia":"4",
+    "canton":"Barva"
+  },
+  {
+    "idProvincia":"4",
+    "canton":"Belén"
+  },
+  {
+    "idProvincia":"4",
+    "canton":"Flores"
+  },
+  {
+    "idProvincia":"4",
+    "canton":"Heredia"
+  },
+  {
+    "idProvincia":"4",
+    "canton":"Puerto Viejo"
+  },
+  {
+    "idProvincia":"4",
+    "canton":"San Isidro"
+  },
+  {
+    "idProvincia":"4",
+    "canton":"San Pablo"
+  },
+  {
+    "idProvincia":"4",
+    "canton":"San Rafael"
+  },
+  {
+    "idProvincia":"4",
+    "canton":"Santa Bárbara"
+  },
+  {
+    "idProvincia":"4",
+    "canton":"Santo Domingo"
+  },
+  {
+    "idProvincia":"4",
+    "canton":"Sarapiquí"
+  },
+  {
+    "idProvincia":"5",
+    "canton":"Guácimo"
+  },
+  {
+    "idProvincia":"5",
+    "canton":"Limón"
+  },
+  {
+    "idProvincia":"5",
+    "canton":"Matina"
+  },
+  {
+    "idProvincia":"5",
+    "canton":"Pococí"
+  },
+  {
+    "idProvincia":"5",
+    "canton":"Siquirres"
+  },
+  {
+    "idProvincia":"5",
+    "canton":"Talamanca"
+  },
+  {
+    "idProvincia":"6",
+    "canton":"Aguirre"
+  },
+  {
+    "idProvincia":"6",
+    "canton":"Buenos Aires"
+  },
+  {
+    "idProvincia":"6",
+    "canton":"Corredores"
+  },
+  {
+    "idProvincia":"6",
+    "canton":"Coto Brus"
+  },
+  {
+    "idProvincia":"6",
+    "canton":"Esparza"
+  },
+  {
+    "idProvincia":"6",
+    "canton":"Garabito"
+  },
+  {
+    "idProvincia":"6",
+    "canton":"Golfito"
+  },
+  {
+    "idProvincia":"6",
+    "canton":"Montes de Oro"
+  },
+  {
+    "idProvincia":"6",
+    "canton":"Osa"
+  },
+  {
+    "idProvincia":"6",
+    "canton":"Parrita"
+  },
+  {
+    "idProvincia":"6",
+    "canton":"Puntarenas"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Acosta"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Alajuelita"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Aserrí"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Curribadat"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Desamparados"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Dota"
+
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Escazú"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Goicochea"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"León Cortés"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Montes de Oca"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Mora"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Moravia"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Osa"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Pérez Zeledón"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Puriscal"
+
+  },
+  {
+    "idProvincia":"7",
+    "canton":"San José"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"San Sebastián"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"San Vicente"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Santa Ana"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Tarrazú"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Tibás"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Turrúbares"
+  },
+  {
+    "idProvincia":"7",
+    "canton":"Vázquez de Coronado"
+  }
+]
