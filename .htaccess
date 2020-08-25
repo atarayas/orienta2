@@ -1,0 +1,8 @@
+
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^orienta2\.mep\.go\.cr$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.orienta2\.mep\.go\.cr$
+RewriteRule ^/?$ "https\:\/\/orienta2\.mep\.go\.cr\/" [R=301,L]
+

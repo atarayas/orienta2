@@ -69,7 +69,7 @@
     <div class="container container-fullwidth">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h2 class="mt-4 mb-3 mt-left">¿Conocés de opciones universitarias?</h2>
+      <h2 class="mt-4 mb-3 mt-left">>
 
       <ol class="breadcrumb left">
         <li class="breadcrumb-item">
@@ -85,8 +85,8 @@
       <h3>Enlaces</h3>
       <!-- animated links -->
       <div class="row row-enlaces">
-       <div class="ih-item circle colored effect1"><a href="http://www.mtss.go.cr/empleo-formacion/empleate.html" target="_blank">
-          <div class="spinner"></div>
+       <div class="ih-item circle colored effect1"><a href="https://pronae.info/wp-content/endurance-page-cache/_index.html" target="_blank">
+       <div class="spinner"></div>
          <div class="img"><img class="img-enlace" src="../img/buttons/btn-mtss.png" alt="img"></div>
          <div class="info">
            <div class="info-back">

@@ -106,7 +106,6 @@ function iniciaId(evento) {
             rules: {
               cedini : {
                 required: true,
-                numErico: true,
                 minlength: 9,
                 maxlength: 13,
               },
@@ -114,7 +113,6 @@ function iniciaId(evento) {
               messages: {
                 cedini: {
                   required: 'Este campo es requerido',
-                  numErico: 'El campo debe contener solo números',
                   minlength: 'Este campo debe tener mínimo 9 digitos',
                   maxlength: 'Este campo debe tener máximo 12 digitos'
               },

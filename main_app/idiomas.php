@@ -143,7 +143,7 @@
           </div>
             </div></a>
           </div>
-          <div class="ih-item circle colored effect1"><a href="http://www.ina.ac.cr/comercioyservicio/idiomas.html" target="_blank">
+          <div class="ih-item circle colored effect1"><a href="https://www.ina.ac.cr/BusquedaCursos/SitePages/Sedes.aspx" target="_blank">
                <div class="spinner"></div>
               <div class="img"><img src="../img/buttons/btn-ina.png" alt="img"></div>
               <div class="info">
@@ -163,10 +163,7 @@
                 </div>
               </div></a>
           </div>
-      </div>
-      <!-- end links -->
- </div>
-    <!-- /.container -->
+      </div> 
 
     <!-- Footer -->
   <footer class="py-3 bg-footer">

@@ -23,7 +23,6 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
         <script src="../js/main.js" charset="utf-8"></script>
 
-        </script>
         <!-- Bootstrap core CSS -->
         <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -84,7 +83,7 @@
 
       <ol class="breadcrumb">
         <li class="breadcrumb-item">
-          <a href="index.html">Inicio</a>
+          <a href="principal.php">Inicio</a>
         </li>
         <li class="breadcrumb-item active">Vídeos</li>
       </ol>
@@ -147,15 +146,12 @@
   <footer class="py-3 bg-footer">
     <div class="container">
       <div class="row">
-          <div id="sec-footer"  class="col-sm-8 mb-4">
-            <span id="text-footer" class="text-center text-footer text-black"></span>
-          </div>
-          <div id="sec-footer"  class="col-sm-4 mb-4">
-            <span><img class="img-footer" src="img/img-logo-oei.png" alt="imagen del logo de la OEI"></span>
-          </div>
+        <div class="sec-footer col-sm-8 mb-4">
+          <span id="text-footer" class="text-center text-footer text-black"></span>
+        </div>
+        <div id="sec-footer"  class="sec-footer col-sm-4 mb-4"></div>
           <div class="clear-footer"></div>
         </div>
-      </div>
     </div>
     <!-- /.container -->
   </footer>

@@ -1,7 +1,7 @@
 [
   {
      "idProvincia":"1",
-     "canton":"Alfaro Ruiz"
+     "canton":"Alajuela"
   },
   {
     "idProvincia":"1",
@@ -54,6 +54,10 @@
   {
     "idProvincia":"1",
     "canton":"Valverde Vega"
+  },
+  {
+    "idProvincia":"1",
+    "canton":"Zarcero"
   },
   {
     "idProvincia":"2",

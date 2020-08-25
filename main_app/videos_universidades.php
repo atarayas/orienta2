@@ -79,15 +79,16 @@
       </ol>
       <h4>Videos Universidades</h4>
       <p>Texto introductorio aquí<p>
-      
-      <h3>Videos</h3>
+     
+      <h3>Páginas oficiales de las Universidades</h3>
       <!-- animated links -->
       <div class="row row-enlaces">
-      <iframe src="https://www.symbaloo.com/embed/videosuniversidades?" name="_symFrame" width="960px" height="640px" frameborder="0" noresize="noresize" allowTransparency="true"></iframe>
+      <iframe src="https://www.symbaloo.com/embed/shared/AAAABhmjQgAAA42ADOKQXw==?" name="_symFrame" width="960px" height="640px" frameborder="0" noresize="noresize" allowTransparency="true"></iframe>
       </div>
       <!-- end links -->
  </div>
     <!-- /.container -->
+
 
     <!-- Footer -->
   <footer class="py-3 bg-footer">
@@ -102,7 +103,3 @@
     </div>
     <!-- /.container -->
   </footer>
-
-  </body>
-
-</html>

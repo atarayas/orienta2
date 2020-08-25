@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  
+
 console.log("Entré");
   //0 elimina los controles del video - 1 Los habilita
   controls=1;
@@ -36,11 +36,11 @@ console.log("Entré");
       }
       // })
       idLoad= $('.reproductor__thumbs ul li:first').attr("id");
-      $('.reproductor__frame--play').append("<iframe src='http://www.youtube.com/embed/" + idLoad + "?rel=" + rel + "&controls=" + controls +"&showinfo=" + showinfo + "' frameborder='0' allowfullscreen></iframe>");
+      $('.reproductor__frame--play').append("<iframe src='https://www.youtube.com/embed/" + idLoad + "?rel=" + rel + "&controls=" + controls +"&showinfo=" + showinfo + "' frameborder='0' allowfullscreen></iframe>");
       $('.reproductor__thumbs ul li').click(function(){
         idVideo=$(this).attr("id");
         $('.reproductor__frame--play').empty();
-        $('.reproductor__frame--play').append("<iframe src='http://www.youtube.com/embed/" + idVideo + "?rel=" + rel + "&controls=" + controls +"&showinfo=" + showinfo + "' frameborder='0' allowfullscreen></iframe>");
+        $('.reproductor__frame--play').append("<iframe src='https://www.youtube.com/embed/" + idVideo + "?rel=" + rel + "&controls=" + controls +"&showinfo=" + showinfo + "' frameborder='0' allowfullscreen></iframe>");
       })
       // $("#videos").append($('.reproductor'));
     },

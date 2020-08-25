@@ -116,6 +116,7 @@ ol.breadcrumb.top{
     display: none
 }
 
+
 .img-title
 {
   width: 100%;
@@ -390,6 +391,12 @@ ol.breadcrumb.top{
   color: #000000;
 }
 
+a .title-eventos, span .title-eventos  {
+  color: #ffffff!important;
+  font-size: 20px!important;
+  font-weight: bold!important;
+}
+
 .card-header
 {
   color: #000000;
@@ -527,7 +534,7 @@ footer .container .row .mb-4 {
     border: none;
 }
 
-.card-body p.modal-events {
+.card-body p.modal-events, .card-body p > a.modal-events {
   cursor: pointer;
   color: #ffffff;
 }

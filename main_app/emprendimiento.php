@@ -69,7 +69,7 @@
     <div class="container container-fullwidth">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h2 class="mt-4 mb-3 mt-left">¿Conocés de opciones universitarias?</h2>
+      <h2 class="mt-4 mb-3 mt-left"></h2>
 
       <ol class="breadcrumb left">
         <li class="breadcrumb-item">
@@ -96,7 +96,7 @@
          </div>
            </div></a>
          </div>
-         <div class="ih-item circle colored effect1"><a href="http://www.inapymes.com/" target="_blank">
+         <div class="ih-item circle colored effect1"><a href="https://www.ina.ac.cr/BusquedaCursos/SitePages/Catalogo.aspx" target="_blank">
               <div class="spinner"></div>
              <div class="img"><img src="../img/buttons/btn-ina.png" alt="img"></div>
              <div class="info">

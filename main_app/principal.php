@@ -107,19 +107,36 @@
             <ol class="carousel-indicators carousel-indicators--round">
               <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
               <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+
             </ol>
             <!-- The slideshow -->
             <div class="carousel-inner">
-              <div class="carousel-item active" style="background-image: url('../img/img-educacion-especial.jpg')">
+              
+            <div class="carousel-item active" style="background-image: url('../img/orienta50_2020.jpg')">
                 <div class="carousel-caption carousel-background d-md-block">
-                  <p><a  href="https://www.mep.go.cr/noticias/presentan-estudiantes-educacion-especial-opciones-emplearse-continuar-sus-estudios" target="_blank">Presentan a estudiantes de Educación Especial opciones para emplearse y continuar sus estudios</a></p>
+                  <p></p>
                 </div>
               </div>
+              
               <div class="carousel-item" style="background-image: url('../img/img-encuentro-mujeres.jpg')">
                 <div class="carousel-caption carousel-background d-md-block">
                     <p><a  href="https://www.mep.go.cr/noticias/estudiantes-mujeres-se-unen-romper-estereotipos" target="_blank">Estudiantes mujeres se unen para romper estereotipos</a></p>
                 </div>
               </div>
+
+              <div class="carousel-item" style="background-image: url('../img/digi.jpg')">
+                <div class="carousel-caption carousel-background d-md-block">
+                    <p><a  href="https://www.mep.go.cr/noticias/mep-se-une-proyecto-digigirlz-potencia-inclusion-mujer-sector-tecnologico-cientifico" target="_blank">MEP se une a Proyecto DIGIGIRLZ</a></p>
+                  </div>
+              </div>
+              <div class="carousel-item" style="background-image: url('../img/instiproyecto.jpg')">
+                <div class="carousel-caption carousel-background d-md-block">
+                    <p><a  href="https://www.mep.go.cr/noticias/instituciones-se-unen-inspirar-jovenes-mujeres-estudiar-carreras-ingenieriles-tecnologicas" target="_blank">Instituciones se unen para inspirar jóvenes</a></p>
+                  </div>
+              </div>
+
             </div> <!-- close the inner  -->
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -148,6 +165,12 @@
                  <a href="financiamiento.php" target="_self" class="btn btn-block" role="button" id="but_08">¿Cómo podés financiar tus <br>estudios?
                 <div class="info"><h3>Financiamiento</h3><p>Ver más información</p></div></a>
               </div>
+
+              <div class="ih-item square colored effect5 right_to_left item-button right-ih-item">
+                 <a href="encuentro2.php" target="_self" class="btn btn-block" role="button" id="but_09">Encuentro Vocacional <br>Virtual
+                <div class="info"><h3>Encuentro</h3><p>Ver más información</p></div></a>
+              </div>
+
            </div>
            <div id="image-novedades" class="btn-block">
               <div class="card styleCard">
@@ -157,9 +180,9 @@
                       <span>Próximos eventos</span>
                   </div>
                   <div class="card-body eventos">
-                     <p class="modal-events cortar" data-toggle="modal" data-target="#myModal1"><i class="fa fa-calendar-alt" alt="Curso capacitación a orientadores">&nbsp;</i>Semana Nacional de Orientación</a></p>
-                     <!-- <p class="modal-events cortar" data-toggle="modal" data-target="#myModal2"><i class="fa fa-calendar-alt" alt="Encuentro vocacional de orientadores">&nbsp;</i>Encuentro vocacional de orientadores</a></p>
-                     <p class="modal-events cortar" data-toggle="modal" data-target="#myModal3"><i class="fa fa-calendar-alt" alt="Lanzamiento del portal">&nbsp;</i>Exámenes de Bachillerato</a></p> -->
+                  <p class="modal-events cortar"><a style = "color:white;" href="encuentro2.php"><i class="fa fa-calendar-alt" alt="Encuentro vocacional de orientadores">&nbsp;</i>Encuentro virtual</a></p>
+                      <!-- <p class="modal-events cortar" data-toggle="modal" data-target="#myModal1"><i class="fa fa-calendar-alt" alt="Curso capacitación a orientadores">&nbsp;</i>Semana Nacional de Orientación</a></p>  -->
+                      <!--<p class="modal-events cortar" data-toggle="modal" data-target="#myModal3"><i class="fa fa-calendar-alt" alt="Lanzamiento del portal">&nbsp;</i>Exámenes de Bachillerato</a></p> -->
                   </div>
               </div>
               <div class="modal modal-right fade" id="myModal1">
@@ -178,11 +201,11 @@
                       </div>
                       <!-- Modal body -->
                       <div class="modal-body">
-                          <p> <strong>Fecha: </strong>Del 10 al 14 de junio de 2019</p>
+                          <p> <strong>Fecha: </strong>Del 15 al 19 de junio de 2020</p>
                           <!-- <p> <strong>Horario: </strong>de 8:00am a 4:00pm</p> -->
-                          <p> <strong>Tema: </strong>La educación: aportes al desarrollo de las personas y al bienestar de la sociedad.</p>
-                          <p> <strong>Lema: </strong>La persona estudiante, partícipe en la transformación social.</p>
-                          <p><img class="img-thumbnail"  src="../img/afiche-semana-orientacion.jpg" alt="Semana de orientación"> </p>
+                          <p> <strong>Tema: </strong>Desarrollo de habilidades y competencias en las personas estudiantes con énfasis en las áreas STEAM, que incrementan oportunidades personales, sociales, educativas, culturales y laborales en un mundo cambiante.</p>
+                          <p> <strong>Lema: </strong>Abriendo puertas a los retos y oportunidades de un mundo cambiante.</p>
+                          <p><img class="img-thumbnail"  src="../img/afiche-semana-orientacion2020.jpg" alt="Semana de orientación"> </p>
                       </div>
                       <!-- Modal footer -->
                       <div class="modal-footer carousel-background">

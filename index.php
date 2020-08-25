@@ -60,7 +60,6 @@
              <div class="modal-body registra">
 
                <form id="form-ingresar" name="verification">
-
                     <div class="form-inline" id="row-hide">
                        <label for="cedini"><h3>Digita tú numero de identificación:&nbsp;&nbsp;</label></h3>
                        <input class="form-control form-control-sm" type="text" id="cedini" name="cedini" required><br>
@@ -71,7 +70,7 @@
                      <p id="texto-cedula" class="small"><strong>Importante! </strong></p>
                     <ul class="small">
                          <li><strong>Cédula costarricense: </strong>la cantidad de digitos de la identificación debe ser de 9 dígitos. Ejemplo 101230456</li>
-                         <li><strong>Cédula de extranjeros: </strong>la cantidad de digitos de la identificación debe ser de 12 dígitos. Ejemplo 901230456789</li>
+                         <li><strong>Cédula de extranjeros: </strong>la cantidad de caracteres de la identificación debe ser máximo 12 dígitos. Ejemplo 901230456789 o C01234567891</li>
                     </ul>
                   </div>
                   <div class="loading"></div>

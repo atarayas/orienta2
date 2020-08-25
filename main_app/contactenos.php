@@ -128,13 +128,12 @@
                      <tr>
                        <td>Alajuela</td>
                        <td>2443-3095</td>
-                       <td><a href="mailto:catalina.garcia.bolanos@mep.go.cr">catalina.garcia.bolanos@mep.go.cr</a></td>
+                       <td><a href="mailto:kattia.soto.bolanos@mep.go.cr">kattia.soto.bolanos@mep.go.cr</a><br>
+                           <a href="mailto:catalina.garcia.bolanos@mep.go.cr">catalina.garcia.bolanos@mep.go.cr</a></td>
                      </tr>
-                     <tr>
                        <td>San Carlos</td>
-                       <td>2460-3899</td>
-                       <td><a href="mailto:anabelle.rojas.arce@mep.go.cr">anabelle.rojas.arce@mep.go.cr</a></td>
-                     </tr>
+                       <td></td>
+                       <td>     </tr>
                      <tr>
                        <td>Norte Norte</td>
                        <td>2470-0534 / 2470-0067</td>
@@ -143,7 +142,8 @@
                      <tr>
                        <td>Occidente</td>
                        <td>2445-3145 / 2447-1963</td>
-                       <td><a href="mailto:carlos.conejo.bogantes@mep.go.cr">carlos.conejo.bogantes@mep.go.cr</a><br><a href="mailto:gloriana.cordoba.soto@mep.go.cr">gloriana.cordoba.soto@mep.go.cr</a></td>
+                       <td><a href="mailto:carlos.conejo.bogantes@mep.go.cr">carlos.conejo.bogantes@mep.go.cr</a><br>
+                           <a href="mailto:gloriana.cordoba.soto@mep.go.cr">gloriana.cordoba.soto@mep.go.cr</a></td>
                      </tr>
                   </tbody>
                 </table>
@@ -172,12 +172,25 @@
                    <tbody>
                      <tr>
                        <td>Cartago</td>
-                       <td>2591-2792 / 25912786</td>
+                       <td>2591-2792 / 2591-2786<br>
+                         <br>
+                         2556-5092
+                        </td>
+
                        <td>
                          <a href="mailto:oswaldo.trejos.granados@mep.go.cr">oswaldo.trejos.granados@mep.go.cr</a><br>
-                         <a href="mailto:manuel.brenes.zamora@mep.go.cr">manuel.brenes.zamora@mep.go.cr</a>
+                         <a href="mailto:manuel.brenes.zamora@mep.go.cr">manuel.brenes.zamora@mep.go.cr</a><br>
+                         <a href="mailto:marcela.arrieta.quesada@mep.go.cr">marcela.arrieta.quesada@mep.go.cr</a><br>
+                         <a href="mailto:dinorah.castro.acevedo@mep.go.cr">dinorah.castro.acevedo@mep.go.cr</a><br>
                        </td>
                      </tr>
+
+                     <tr>
+                       <td>Turrialba</td>
+                       <td>/</td>
+                       <td><a href="mailto:elber.peña.angulo@mep.go.cr">ivannia.solano.ramirez@mep.go.cr</a></td>
+                     </tr>
+
                   </tbody>
                 </table>
               </div>
@@ -205,13 +218,13 @@
                    <tbody>
                      <tr>
                        <td>Cañas</td>
-                       <td>2669-2932     2669-3520</td>
-                       <td><a href="mailto:elber.peña.angulo@mep.go.cr">elber.peña.angulo@mep.go.cr</a></td>
+                       <td>2669-2669</td>
+                       <td><a href="mailto:luis.mora.vega@mep.go.cr">luis.mora.vega@mep.go.cr</a></td>
                      </tr>
                      <tr>
                        <td>Liberia</td>
                        <td>2666-5255 / 2666-5157</td>
-                       <td><a href="mailto:luis.mora.vega@mep.go.cr">luis.mora.vega@mep.go.cr</a></td>
+                       <td><a href="mailto:maria.marchena.contreras@mep.go.cr">maria.marchena.contreras@mep.go.cr</a></td>
                      </tr>
                      <tr>
                        <td>Nicoya</td>
@@ -221,8 +234,8 @@
                      <tr>
                        <td>Santa Cruz</td>
                        <td>2680-0655</td>
-                       <td><a href="mailto:roy.gomez.villafuerte@mep.go.cr">roy.gomez.villafuerte@mep.go.cr</a></td>
-                     </tr>
+                       <td><a href="mailto:ana.rosales.gonzalez@mep.go.cr">ana.rosales.gonzalez@mep.go.cr</a></td>
+                       </tr>
                   </tbody>
                 </table>
               </div>
@@ -252,7 +265,8 @@
                        <tr>
                          <td>Heredia</td>
                          <td> 2238-0596</td>
-                         <td><a href="mailto:xinia1.sanchez.jimenez@mep.go.cr">xinia1.sanchez.jimenez@mep.go.cr</a></td>
+                         <td><a href="mailto:xinia1.sanchez.jimenez@mep.go.cr">xinia1.sanchez.jimenez@mep.go.cr</a><br>
+                             <a href="mailto:elsa.sanchez.arias@mep.go.cr">elsa.sanchez.arias@mep.go.cr</a></td>
                        </tr>
                        <td>Sarapiquí</td>
                        <td>2766-5823 / 2766-5821</td>
@@ -292,7 +306,7 @@
                      <tr>
                        <td>San José Central</td>
                        <td>2255-1257 / 2257-4303</td>
-                       <td><a href="mailto:manuel.rodriguez.meza@mep.go.cr">manuel.rodriguez.meza@mep.go.cr</a></td>
+                       <td><a href="mailto:alisson.salazar.lobo@mep.go.cr">alisson.salazar.lobo@mep.go.cr</a></td>
                      </tr>
                      <tr>
                        <td>San José Norte</td>
@@ -302,12 +316,12 @@
                      <tr>
                        <td>San José Oeste</td>
                        <td>2223-5933 / 2223-5928</td>
-                       <td><a href="mailto:marta.caravaca.ulloa@mep.go.cr">marta.caravaca.ulloa@mep.go.cr</a></td>
+                       <td><a href="mailto:arlin.cascantes.vallejos@mep.go.cr">arlin.cascantes.vallejos@mep.go.cr</a></td>
                      </tr>
                      <tr>
                        <td>Los Santos</td>
                        <td>2546-2646</td>
-                       <td><a href="mailto:allan.cordero.brenes@mep.go.cr">allan.cordero.brenes@mep.go.cr</a></td>
+                       <td><a href="mailto:hazel.navaro.vargas@mep.go.cr">hazel.navaro.vargas@mep.go.cr</a></td>
                      </tr>
                      <tr>
                        <td>Pérez Zeledón</td>
@@ -368,8 +382,9 @@
                      </tr>
                      <tr>
                        <td>Peninsular</td>
-                       <td>2641-0490 / 2641-0345</td>
-                       <td><a href="mailto:jose.jimenez.oviedo@mep.go.cr">jose.jimenez.oviedo@mep.go.cr</a></td>
+                       <td> 2641-0308                    <td>
+                       <a href="mailto:ana.bermudez.paniagua@mep.go.cr">ana.bermudez.paniagua@mep.go.cr</a>
+                       </td>
                      </tr>
                   </tbody>
                 </table>
@@ -398,8 +413,8 @@
                    <tbody>
                      <tr>
                        <td>Guápiles</td>
-                       <td>2710- 4548 / 2710-6756</td>
-                       <td><a href="mailto:sandra.garro.montoya@mep.go.cr">sandra.garro.montoya@mep.go.cr</a></td>
+                       <td></td>
+                       <td></td>
                      </tr>
                      <tr>
                        <td>Limón</td>

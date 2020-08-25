@@ -78,22 +78,12 @@
         <li class="breadcrumb-item active">Financiamiento</li>
       </ol>
       <h4>¿Cómo te podés financiar tus estudios?</h4>
-      <p>El tema de financiamiento o pago de los estudios, no debe ser un obstáculo para alcanzar tus metas, muchas veces los recursos familiares o propios, son insuficientes para poder estudiar lo que te gustaría; también muchos centros universitarios te apoyan con la exoneración parcial o total de los pagos, si participás en algún grupo deportivo o artístico de la universidad. Ahora bien, si tenés  notas sobresalientes, podés optar por una beca por excelencia académica.</p>
-      <p>Así dale una ojeada a las diferentes opciones y tipos de becas que te presentan los diferentes centros de formación, a  continuación te brindamos algunos link:</p>
+      <p>El tema de financiamiento o pago de los estudios, no debe ser un obstáculo para alcanzar tus metas, muchas veces los recursos familiares o propios, son insuficientes para poder estudiar lo que te gustaría; también muchos centros universitarios y gobiernos internacionales te apoyan con la exoneración parcial o total de los pagos, si participás en algún grupo deportivo o artístico de la universidad. Ahora bien, si tenés  notas sobresalientes, podés optar por una beca por excelencia académica.</p>
+      <p>Así, dale una ojeada a las diferentes opciones y tipos de becas que te presentan los diferentes centros de formación y países, a  continuación te brindamos algunos link:</p>
       <h3>Enlaces</h3>
       <!-- animated links -->
       <div class="row row-enlaces">
-       <div class="ih-item circle colored effect1"><a href="http://www.fonabe.go.cr/universidad/becas-universitarias" target="_blank">
-          <div class="spinner"></div>
-         <div class="img"><img class="img-enlace" src="../img/buttons/btn-fonabe.png" alt="img"></div>
-         <div class="info">
-           <div class="info-back">
-              <h3>Click aquí</h3>
-              <p>Becas</p>
-        </div>
-          </div></a>
-        </div>
-        <div class="ih-item circle colored effect1"><a href="http://www.conape.go.cr/" target="_blank">
+      <div class="ih-item circle colored effect1"><a href="http://www.conape.go.cr/" target="_blank">
              <div class="spinner"></div>
             <div class="img"><img src="../img/buttons/btn-conape.png" alt="img"></div>
             <div class="info">
@@ -113,6 +103,18 @@
               </div>
             </div></a>
         </div>
+
+        <div class="ih-item circle colored effect1"><a href="https://www.rree.go.cr/?sec=servicios&cat=becas&cont=574" target="_blank">
+             <div class="spinner"></div>
+            <div class="img"><img src="../img/buttons/btn-becas.png" alt="img"></div>
+            <div class="info">
+              <div class="info-back">
+                <h3>Click aquí</h3>
+                <p>Oficina de Becas</p>
+              </div>
+            </div></a>
+        </div>
+
       </div>
       <!-- end links -->
    </div>

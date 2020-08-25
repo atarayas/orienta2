@@ -83,7 +83,7 @@
       <h3>Enlaces</h3>
       <!-- animated links -->
       <div class="row row-enlaces">
-       <div class="ih-item circle colored effect1"><a href="http://www.mep.go.cr/educacion-tecnica" target="_blank" alt="Educación Técnica" title="Educación Técnica">
+       <div class="ih-item circle colored effect1"><a href="http://detce.mep.go.cr/acerca/servicios-educativos" target="_blank" alt="Educación Técnica" title="Educación Técnica">
           <div class="spinner"></div>
          <div class="img"><img class="img-enlace" src="../img/buttons/btn-mep.png" alt="img"></div>
          <div class="info">
