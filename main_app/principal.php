@@ -166,9 +166,10 @@
                 <div class="info"><h3>Financiamiento</h3><p>Ver más información</p></div></a>
               </div>
 
-              <div class="ih-item square colored effect5 right_to_left item-button right-ih-item">
-                 <a href="encuentro2.php" target="_self" class="btn btn-block" role="button" id="but_09">Encuentro Vocacional <br>Virtual
-                <div class="info"><h3>Encuentro</h3><p>Ver más información</p></div></a>
+              <!-- <div class="ih-item square colored effect5 right_to_left item-button right-ih-item"> -->
+              <div class="item-encuentro">
+              <!-- <p class="mb-0"></p> -->
+                  <a href="encuentro2.php" "><img  class="img-fluid" src="../img/btn_encuentro_vocacional_virtual.png" alt="Encuentro vocacacional virtual" ></a>
               </div>
 
            </div>
