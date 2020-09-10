@@ -251,7 +251,7 @@ ol.breadcrumb.top{
 .col-carousel {
   padding-top: 2%;
 }
-.carousel-inner img {
+.carousel-inner img, .carousel-inner  {
     width: 100%;
     height: 100%;
 }

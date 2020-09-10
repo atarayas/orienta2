@@ -16,7 +16,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    X-Frame-Options: ALLOW-FROM https://example.com/
+    <!-- X-Frame-Options: ALLOW-FROM https://example.com/ -->
 
     <title>Orientacion Vocacional | Ministerio de Educación Pública</title>
 
@@ -84,26 +84,21 @@
     <div class="container container-fullwidth">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h2 class="mt-4 mb-3 mt-right">CENFOTEC</h2>
+      <h2 class="mt-4 mb-3 mt-right">CONAPE Préstamos para estudios</h2>
 
       <ol class="breadcrumb right">
         <li class="breadcrumb-item">
-          <a href="principal.php">Inicio</a>
+          <a href="encuentro2.php">Inicio</a>
         </li>
-        <li class="breadcrumb-item active">CENFOTEC</li>
+        <li class="breadcrumb-item active">CONAPE</li>
       </ol>
 
-      <h4>Elementos básicos para la vida laboral</h4>
-      <p>Indudablemente la etapa del mundo laboral, genera muchos sentimientos encontrados, por un lado la ansia de libertad económica, pero por otro, algo que has venido preparándote desde el cole, y es que, para ingresar a la vida laboral, debes empezar por algunos aspectos básicos que te ayudarán a insertarte mejor en el mundo del trabajo.</p>
-      <p>Por lo que a continuación, te presentamos algunos elementos que indudablemente, te servirán montones para la búsqueda, entrevista e incorporación a la vida laboral.</p>
-      <ul>
-        <li>Consejos para la entrevista laboral</li>
-        <li>La importancia de tener buena ortografía</li>
-      </ul>
-      <h4>Videos</h4>
+      <h4>Visite la página oficial de: <a href="https://www.conape.go.cr/" target="_blank">CONAPE</h4>
+      <br>
+      <h4>Video informativo</h4>
           <div class="row-videos float-center">
-              <iframe src="https://www.youtube.com/embed/Ugoju-2usc4" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
-          </div>
+              <iframe src="https://www.youtube.com/embed/yCT32EpTA2U" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
+          </div></a>
     	</div>
  </div>
     <!-- /.container -->

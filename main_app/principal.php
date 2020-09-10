@@ -103,50 +103,60 @@
         </div>
 
         <div id="center-col" class="col-md-6 col-carousel">
-          <div id="carouselExampleIndicators" class="carousel slide border-carousel" data-ride="carousel">
-            <ol class="carousel-indicators carousel-indicators--round">
-              <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-              <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-              <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-              <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+        <!-- inicio del carrusel -->
+        <div id="demo" class="carousel slide" data-ride="carousel">
 
-            </ol>
-            <!-- The slideshow -->
-            <div class="carousel-inner">
-              
-            <div class="carousel-item active" style="background-image: url('../img/orienta50_2020.jpg')">
-                <div class="carousel-caption carousel-background d-md-block">
-                  <p></p>
-                </div>
-              </div>
-              
-              <div class="carousel-item" style="background-image: url('../img/img-encuentro-mujeres.jpg')">
-                <div class="carousel-caption carousel-background d-md-block">
-                    <p><a  href="https://www.mep.go.cr/noticias/estudiantes-mujeres-se-unen-romper-estereotipos" target="_blank">Estudiantes mujeres se unen para romper estereotipos</a></p>
-                </div>
-              </div>
-
-              <div class="carousel-item" style="background-image: url('../img/digi.jpg')">
-                <div class="carousel-caption carousel-background d-md-block">
-                    <p><a  href="https://www.mep.go.cr/noticias/mep-se-une-proyecto-digigirlz-potencia-inclusion-mujer-sector-tecnologico-cientifico" target="_blank">MEP se une a Proyecto DIGIGIRLZ</a></p>
-                  </div>
-              </div>
-              <div class="carousel-item" style="background-image: url('../img/instiproyecto.jpg')">
-                <div class="carousel-caption carousel-background d-md-block">
-                    <p><a  href="https://www.mep.go.cr/noticias/instituciones-se-unen-inspirar-jovenes-mujeres-estudiar-carreras-ingenieriles-tecnologicas" target="_blank">Instituciones se unen para inspirar jóvenes</a></p>
-                  </div>
-              </div>
-
-            </div> <!-- close the inner  -->
-            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Anterior</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="sr-only">Próximo</span>
-            </a>
-          </div>
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+    <li data-target="#demo" data-slide-to="3"></li>
+    <li data-target="#demo" data-slide-to="5"></li>
+  </ul>
+  
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="../img/encuentro_mujeres1.jpg" class="img-fluid rounded" alt="Encuentro de mujeres" width="1100" height="900">
+      <div class="carousel-caption carousel-background d-md-block">
+        <p><a  href="http://orienta2.mep.go.cr/chicasteam/" target="_blank">Encuentro de Mujeres en Ciencia y Tecnología</a></p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="../img/orientacion20201.jpg" class="img-fluid rounded" alt="Chicago" width="1100" height="900">
+      <div class="carousel-caption carousel-background d-md-block">
+      <p><a  href="http://orienta2.mep.go.cr/chicasteam/" target="_blank">XL Semana Nacional de Orientación</a></p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="../img/img-encuentro-mujeres1.png" class="img-fluid rounded" alt="Encuentro de mujeres" width="1100" height="900">
+      <div class="carousel-caption carousel-background d-md-block">
+          <p><a  href="https://www.mep.go.cr/noticias/estudiantes-mujeres-se-unen-romper-estereotipos" target="_blank">Estudiantes mujeres se unen para romper estereotipos</a></p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="../img/digi1.png" alt="Proyecto DigiGirlZ" class="img-fluid rounded" width="1100" height="900">
+      <div class="carousel-caption carousel-background d-md-block">
+         <p><a  href="https://www.mep.go.cr/noticias/mep-se-une-proyecto-digigirlz-potencia-inclusion-mujer-sector-tecnologico-cientifico" target="_blank">MEP se une a Proyecto DIGIGIRLZ</a></p>
+      </div>
+    </div>
+        <div class="carousel-item">
+      <img src="../img/instiproyecto1.png" alt="Noticia para inspirar a jovenes mujeres a estudiar" class="img-fluid rounded" width="1100" height="900">
+      <div class="carousel-caption carousel-background d-md-block">
+        <p><a  href="https://www.mep.go.cr/noticias/instituciones-se-unen-inspirar-jovenes-mujeres-estudiar-carreras-ingenieriles-tecnologicas" target="_blank">Instituciones se unen para inspirar jóvenes</a></p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
           <!-- fin carousel -->
         </div>
         <!-- columna 3 -->
@@ -168,7 +178,6 @@
 
               <!-- <div class="ih-item square colored effect5 right_to_left item-button right-ih-item"> -->
               <div class="item-encuentro">
-              <!-- <p class="mb-0"></p> -->
                   <a href="encuentro2.php" "><img  class="img-fluid" src="../img/btn_encuentro_vocacional_virtual.png" alt="Encuentro vocacacional virtual" ></a>
               </div>
 
