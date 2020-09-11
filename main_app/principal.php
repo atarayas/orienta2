@@ -124,13 +124,13 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="../img/orientacion20201.jpg" class="img-fluid rounded" alt="Chicago" width="1100" height="900">
+      <img src="../img/orientacion20201.jpg" class="img-fluid rounded" alt="Semana de orientación" width="1100" height="900">
       <div class="carousel-caption carousel-background d-md-block">
-      <p><a  href="http://orienta2.mep.go.cr/chicasteam/" target="_blank">XL Semana Nacional de Orientación</a></p>
+      <p><a  href="https://www.mep.go.cr/noticias/mep-celebra-su-xl-semana-nacional-orientacion" target="_blank">XL Semana Nacional de Orientación</a></p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="../img/img-encuentro-mujeres1.png" class="img-fluid rounded" alt="Encuentro de mujeres" width="1100" height="900">
+      <img src="../img/img-encuentro-mujeres1.png" class="img-fluid rounded" alt="Estudiantes mujeres rompen estereotipos" width="1100" height="900">
       <div class="carousel-caption carousel-background d-md-block">
           <p><a  href="https://www.mep.go.cr/noticias/estudiantes-mujeres-se-unen-romper-estereotipos" target="_blank">Estudiantes mujeres se unen para romper estereotipos</a></p>
       </div>
