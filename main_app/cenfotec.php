@@ -75,7 +75,7 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul id="options" class="navbar-nav ml-auto">
           </ul>
-       </div>
+        </div>
       </div>
     </nav>
     <!-- fin de navigation -->
@@ -93,13 +93,13 @@
         <li class="breadcrumb-item active">CENFOTEC</li>
       </ol>
 
-      <h4>Visite la página oficial de: <a href="https://www.ucenfotec.ac.cr/" target="_blank">UNIVERSIDAD CENFOTEC</h4>
+      <h3>Visite la página oficial de: <a href="https://www.ucenfotec.ac.cr/" target="_blank">UNIVERSIDAD CENFOTEC</a></h3>
       <br>
-      <h4>Video informativo</h4>
-          <div class="row-videos">
+          <h3>Video informativo</h3>
+      <hr>
+          <div class="video-universidad">
               <iframe src="https://www.youtube.com/embed/Ugoju-2usc4" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
-          </div></a>
-    	</div>
+          </div>
  </div>
     <!-- /.container -->
 
@@ -111,8 +111,8 @@
             <span id="text-footer" class="text-center text-footer text-black"></span>
           </div>
           <div id="sec-footer"  class="sec-footer col-sm-4 mb-4"></div>
-            <div class="clear-footer"></div>
-          </div>
+          <div class="clear-footer"></div>
+        </div>
       </div>
     <!-- /.container -->
   </footer>

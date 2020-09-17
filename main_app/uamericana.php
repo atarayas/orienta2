@@ -93,17 +93,11 @@
         <li class="breadcrumb-item active">Universidad Americana</li>
       </ol>
 
-      <h4>Visite la página oficial de: <a href="http://www.uam.ac.cr/" target="_blank">UNIVERSIDAD AMERICANA</h4>
+      <h3>Visite la página oficial de: <a href="http://www.uam.ac.cr/" target="_blank">UNIVERSIDAD AMERICANA</a></h3>
       <br>
-      <!-- <h4>Elementos básicos para la vida laboral</h4>
-      <p>Indudablemente la etapa del mundo laboral, genera muchos sentimientos encontrados, por un lado la ansia de libertad económica, pero por otro, algo que has venido preparándote desde el cole, y es que, para ingresar a la vida laboral, debes empezar por algunos aspectos básicos que te ayudarán a insertarte mejor en el mundo del trabajo.</p>
-      <p>Por lo que a continuación, te presentamos algunos elementos que indudablemente, te servirán montones para la búsqueda, entrevista e incorporación a la vida laboral.</p>
-      <ul>
-        <li>Consejos para la entrevista laboral</li>
-        <li>La importancia de tener buena ortografía</li>
-      </ul> -->
-      <h4>Video informativo</h4>
-          <div class="row-videos         <div class="row-videos float-center">
+      <h3>Video informativo</h3>
+      <hr>
+          <div class="video-universidad">
               <iframe src="https://www.youtube.com/embed/2o8SoZpZ43s" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
           </div>
     	</div></a>

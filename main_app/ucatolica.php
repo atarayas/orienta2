@@ -90,15 +90,16 @@
         <li class="breadcrumb-item">
           <a href="encuentro2.php">Inicio</a>
         </li>
-        <li class="breadcrumb-item active">NIVERSIDAD CATÓLICA</li>
+        <li class="breadcrumb-item active">UNIVERSIDAD CATÓLICA</li>
       </ol>
 
-      <h4>Visite la página oficial de: <a href="https://www.ucatolica.ac.cr/" target="_blank">UNIVERSIDAD CATÓLICA</h4>
+      <h3>Visite la página oficial de: <a href="https://www.ucatolica.ac.cr/" target="_blank">UNIVERSIDAD CATÓLICA</a></h3>
       <br>
-      <h4>Video informativo</h4>
-          <div class="row-videos         <div class="row-videos float-center">
+          <h3>Video informativo</h3>
+      <hr>
+          <div class="video-universidad">
               <iframe src="https://www.youtube.com/embed/p1f3OM_IyAU" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
-          </div></a>
+          </div>
     	</div>
  </div>
     <!-- /.container -->

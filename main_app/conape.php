@@ -93,12 +93,13 @@
         <li class="breadcrumb-item active">CONAPE</li>
       </ol>
 
-      <h4>Visite la página oficial de: <a href="https://www.conape.go.cr/" target="_blank">CONAPE</h4>
+      <h3>Visite la página oficial de: <a href="https://www.conape.go.cr/" target="_blank">CONAPE</a></h3>
       <br>
-      <h4>Video informativo</h4>
+          <h3>Video informativo</h3>
+      <hr>
           <div class="row-videos float-center">
               <iframe src="https://www.youtube.com/embed/yCT32EpTA2U" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
-          </div></a>
+          </div>
     	</div>
  </div>
     <!-- /.container -->

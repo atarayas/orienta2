@@ -93,12 +93,13 @@
         <li class="breadcrumb-item active">UNIVERSIDAD DE IBEROAMERICA</li>
       </ol>
 
-      <h4>Visite la página oficial de: <a href="https://www.unibe.ac.cr/" target="_blank">UNIVERSIDAD DE IBEROAMERICA</h4>
+      <h3>Visite la página oficial de: <a href="https://www.unibe.ac.cr/" target="_blank">UNIVERSIDAD DE IBEROAMERICA</a></h3>
       <br>
-      <h4>Video informativo</h4>
-          <div class="row-videos         <div class="row-videos float-center">
+          <h3>Video informativo</h3>
+      <hr>
+          <div class="video-universidad">
               <iframe src="https://www.youtube.com/embed/RSqTQoS726E" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
-          </div></a>
+          </div>
     	</div>
  </div>
     <!-- /.container -->

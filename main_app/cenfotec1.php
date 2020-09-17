@@ -102,7 +102,7 @@
         <li>La importancia de tener buena ortografía</li>
       </ul> -->
       <h4>Videos</h4>
-          <div class="row-videos         <div class="row-videos float-center">
+          <div class="video-universidad">
               <iframe src="https://www.youtube.com/embed/fIZjnVMYxnI" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
           </div>
     	</div>

@@ -90,7 +90,7 @@
                 <h3>Click aquí</h3>
                 <p>CONARE</p>
               </div>
-            </div></a>
+            </div>
         </div>
       </div>
    <!-- end links -->

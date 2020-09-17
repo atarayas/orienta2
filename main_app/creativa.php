@@ -93,12 +93,13 @@
         <li class="breadcrumb-item active">UNIVERSIDAD CREATIVA</li>
       </ol>
 
-      <h4>Visite la página oficial de: <a href="https://www.ucreativa.com/" target="_blank">UNIVERSIDAD CREATIVA</h4>
+      <h3>Visite la página oficial de: <a href="https://www.ucreativa.com/" target="_blank">UNIVERSIDAD CREATIVA</a></h3>
       <br>
-      <h4>Video informativo</h4>
-          <div class="row-videos         <div class="row-videos float-center">
+          <h3>Video informativo</h3>
+      <hr>
+          <div class="video-universidad">
               <iframe src="https://www.youtube.com/embed/mdFLuKOfAv8" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
-          </div></a>
+          </div>
     	</div>
  </div>
     <!-- /.container -->
