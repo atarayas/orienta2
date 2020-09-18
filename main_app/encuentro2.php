@@ -66,7 +66,7 @@
     <!-- fin de navigation -->
 
     <!-- Page Content -->
-    <div class="container container-fullwidth">
+  <div class="container container-fullwidth">
 
       <!-- Page Heading/Breadcrumbs -->
       <h2 class="mt-4 mb-3 mt-right">Enlaces</h2>
@@ -92,7 +92,7 @@
                 <p>CENFOTEC</p>
               </div>
              </div></a>
-        </div>
+        </div><!-- div item  -->
 
         <div class="ih-item circle colored effect1"><a href="fidelitas.php">
              <div class="spinner"></div>
@@ -103,18 +103,18 @@
                 <p>Fidelitas</p>
               </div>
             </div></a>
-        </div>
+        </div><!-- div item  -->
 
         <div class="ih-item circle colored effect1"><a href="unibe.php">
-               <div class="spinner"></div>
-              <div class="img"><img src="../img/buttons/bt-unibe.png" alt="img"></div>
-              <div class="info">
-                <div class="info-back">
+          <div class="spinner"></div>
+          <div class="img"><img src="../img/buttons/bt-unibe.png" alt="img"></div>
+          <div class="info">
+              <div class="info-back">
                   <h3>Click aquí</h3>
                   <p>UNIBE</p>
-         </div>
-        </div></a>
-         </div>
+              </div>
+          </div></a>
+        </div><!-- div item  -->
 
          <div class="ih-item circle colored effect1"><a href="ulatina.php">
               <div class="spinner"></div>
@@ -125,18 +125,19 @@
                  <p>ULatina</p>
                </div>
              </div></a>
-         </div>
+         </div><!-- div item  -->
 
-         <div class="ih-item circle colored effect1"><a href="uamericana.php">
+        <div class="ih-item circle colored effect1"><a href="uamericana.php">
             <div class="spinner"></div>
-           <div class="img"><img class="img-enlace" src="../img/buttons/bt-uam.png" alt="img"></div>
-           <div class="info">
-             <div class="info-back">
-                <h3>Click aquí</h3>
-                <p>UAmericana</p>
-            </div>
+            <div class="img"><img src="../img/buttons/bt-uam.png" alt="img"></div>
+            <!-- <div class="img"><img class="img-enlace" src="../img/buttons/bt-uam.png" alt="img"></div> -->
+            <div class="info">
+                  <div class="info-back">
+                    <h3>Click aquí</h3>
+                    <p>UAmericana</p>
+                  </div>
             </div></a>
-          </div>
+        </div><!-- div item  -->
 
           <div class="ih-item circle colored effect1"><a href="invenio.php">
                <div class="spinner"></div>
@@ -147,7 +148,7 @@
                   <p>INVENIO</p>
                 </div>
                </div></a>
-          </div>
+          </div><!-- div item  -->
 
           <div class="ih-item circle colored effect1"><a href="uia.php">
                <div class="spinner"></div>
@@ -158,7 +159,7 @@
                   <p>UIA</p>
                 </div>
               </div></a>
-          </div>
+          </div><!-- div item  -->
 
           <div class="ih-item circle colored effect1"><a href="uaca.php">
                <div class="spinner"></div>
@@ -169,7 +170,7 @@
                   <p>UACA</p>
                 </div>
               </div></a>
-          </div>
+          </div><!-- div item  -->
 
           <div class="ih-item circle colored effect1"><a href="uindependiente.php">
                <div class="spinner"></div>
@@ -180,7 +181,7 @@
                   <p>UIndepe</p>
                 </div>
               </div></a>
-          </div>
+          </div><!-- div item  -->
 
           <div class="ih-item circle colored effect1"><a href="uveritas.php">
                <div class="spinner"></div>
@@ -191,7 +192,7 @@
                   <p>Veritas</p>
                 </div>
               </div></a>
-          </div>
+          </div><!-- div item  -->
 
           <div class="ih-item circle colored effect1"><a href="creativa.php">
                <div class="spinner"></div>
@@ -202,7 +203,7 @@
                   <p>UCreativa</p>
                 </div>
               </div></a>
-          </div>
+          </div><!-- div item  -->
 
           <div class="ih-item circle colored effect1"><a href="ucatolica.php">
                <div class="spinner"></div>
@@ -213,7 +214,7 @@
                   <p>Católica</p>
                 </div>
               </div></a>
-          </div>
+          </div><!-- div item  -->
 
           <div class="ih-item circle colored effect1"><a href="upolitecnica.php">
                <div class="spinner"></div>
@@ -224,7 +225,7 @@
                   <p>Politecnica</p>
                 </div>
               </div></a>
-          </div>
+          </div><!-- div item  -->
 
           <div class="ih-item circle colored effect1"><a href="uned.php">
                <div class="spinner"></div>
@@ -235,7 +236,7 @@
                   <p>UNED</p>
                 </div>
               </div></a>
-          </div>
+          </div><!-- div item  -->
 
           <div class="ih-item circle colored effect1"><a href="utn.php">
                <div class="spinner"></div>
@@ -246,7 +247,7 @@
                   <p>UTN</p>
                 </div>
               </div></a>
-          </div>
+          </div><!-- div item  -->
 
           <div class="ih-item circle colored effect1"><a href="tec.php">
                <div class="spinner"></div>
@@ -257,7 +258,7 @@
                   <p>TEC</p>
                 </div>
               </div></a>
-          </div>
+          </div><!-- div item  -->
 
           <div class="ih-item circle colored effect1"><a href="earth.php">
                <div class="spinner"></div>
@@ -268,7 +269,7 @@
                   <p>EARTH</p>
                 </div>
               </div></a>         
-          </div>
+          </div><!-- div item  -->
   
           <div class="ih-item circle colored effect1"><a href="hispanoamericana.php">
                <div class="spinner"></div>
@@ -279,7 +280,7 @@
                   <p>HISPANO</p>
                 </div>
               </div></a>         
-          </div>
+          </div><!-- div item  -->
         
           <div class="ih-item circle colored effect1"><a href="uisil.php">
                <div class="spinner"></div>
@@ -290,7 +291,7 @@
                   <p>UISIL</p>
                 </div>
               </div></a>         
-          </div>
+          </div><!-- div item  -->
 
           <div class="ih-item circle colored effect1"><a href="ucentral.php">
                <div class="spinner"></div>
@@ -301,22 +302,22 @@
                   <p>UCENTRAL</p>
                 </div>
               </div></a>         
-          </div>
-    </div>     <!-- cierra row-enlaces -->
-    <hr>
-    <div class="row row-enlaces">
-      <div class="ih-item circle colored effect1">
-            <a href="etai.php">
-              <div class="spinner"></div>
-              <div class="img"><img src="../img/buttons/bt-etai.png" alt="img"></div>
-              <div class="info">
-                <div class="info-back">
+          </div><!-- div item  -->
+      </div>     <!-- cierra row-enlaces -->
+
+      <!-- cierra container full? -->
+     <hr>
+     <div class="row row-enlaces">
+      <div class="ih-item circle colored effect1"><a href="etai.php">
+          <div class="spinner"></div>
+          <div class="img"><img src="../img/buttons/bt-etai.png" alt="img"></div>
+          <div class="info">
+            <div class="info-back">
                   <h3>Click aquí</h3>
                   <p>ETAI</p>
-                </div>
-              </a>          
-              </div>
-      </div>
+            </div>
+          </div></a>
+      </div><!-- div item  -->
         <div class="ih-item circle colored effect1"><a href="ina.php">
             <div class="spinner"></div>
               <div class="img"><img src="../img/buttons/bt-ina.png" alt="img"></div>
@@ -326,7 +327,7 @@
                   <p>INA</p>
               </div>
             </div></a>
-        </div>
+        </div> <!-- div item  -->
         <div class="ih-item circle colored effect1"><a href="amura.php">
               <div class="spinner"></div>
               <div class="img"><img src="../img/buttons/bt-amura.png" alt="img"></div>
@@ -336,7 +337,7 @@
                   <p>Amura</p>
                 </div>
               </div></a>
-        </div>
+        </div><!-- div item  -->
         <div class="ih-item circle colored effect1"><a href="politecnico.php">
               <div class="spinner"></div>
               <div class="img"><img src="../img/buttons/bt-politecnico.png" alt="img"></div>
@@ -346,44 +347,45 @@
                   <p>Politécnico</p>
                 </div>
               </div></a>
-        </div>
+        </div><!-- div item  -->
       <div class="ih-item circle colored effect1"><a href="covao.php">
-              <div class="spinner"></div>
-              <div class="img"><img src="../img/buttons/bt-covao.png" alt="img"></div>
-              <div class="info">
-                <div class="info-back">
-                  <h3>Click aquí</h3>
-                  <p>COVAO</p>
-                </div>
-              </div></a>
-        </div>          
-      </div>
-    </div>     <!-- cierra row-enlaces -->
-    <hr>
-    <div class="row row-enlaces">
-      <div class="ih-item circle colored effect1"><a href="conape.php">
+        <div class="spinner"></div>
+        <div class="img"><img src="../img/buttons/bt-covao.png" alt="img"></div>
+        <div class="info">
+          <div class="info-back">
+            <h3>Click aquí</h3>
+            <p>COVAO</p>
+          </div>
+        </div></a>
+      </div><!-- div item  -->
+
+     </div>     <!-- cierra row-enlaces -->
+     <hr>
+     <div class="row row-enlaces">
+      <div class="ih-item circle colored effect1">
+        <a href="conape.php">
           <div class="spinner"></div>
           <div class="img"><img class="img-enlace" src="../img/buttons/btn-conape.png" alt="img"></div>
           <div class="info">
             <div class="info-back">
                <h3>Click aquí</h3>
                <p>CONAPE</p>
-         </div>
-      </div></a>
-    </div>
-    <div class="ih-item circle colored effect1"><a href="universidadescr.php">
-      <div class="spinner"></div>
+            </div>
+          </div></a>
+      </div><!-- div item  -->
+      <div class="ih-item circle colored effect1"><a href="universidadescr.php">
+        <div class="spinner"></div>
           <div class="img"><img src="../img/buttons/bt-universidadescr.png" alt="img"></div>
           <div class="info">
           <div class="info-back">
               <h3>Click aquí</h3>
               <p>UNIVER_CR</p>
           </div>
-      </div></a>
-      </div>
-      </div>
+        </div></a>
+      </div><!-- div item  -->
+     </div>  <!-- cierra row enlaces -->
 
-
+  </div> <!-- cierra div full -->
 
     <!-- Footer -->
   <footer class="py-3 bg-footer">
