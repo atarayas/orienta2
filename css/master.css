@@ -350,10 +350,11 @@ ol.breadcrumb.top{
     cursor: pointer;
 }
 
-.video-universidad iframe{
-  max-width: 650px !important;
+.video-universidad iframe,
+.video-universidad{
+  max-width: 900px !important;
   width: 100%;
-  max-height:350px;
+  max-height :500px;
   height: 100%;
   border: darkgray solid 3px;
   margin: 0 auto;
