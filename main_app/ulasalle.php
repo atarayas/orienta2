@@ -84,23 +84,22 @@
     <div class="container container-fullwidth">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h2 class="mt-4 mb-3 mt-right">UNIVERSIDAD FIDELITAS</h2>
+      <h2 class="mt-4 mb-3 mt-right">Universidad La Salle</h2>
 
       <ol class="breadcrumb right">
         <li class="breadcrumb-item">
           <a href="encuentro2.php">Inicio</a>
         </li>
-        <li class="breadcrumb-item active">FIDELITAS</li>
+        <li class="breadcrumb-item active">UNIVERSIDAD LA SALLE</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://ufidelitas.ac.cr/" target="_blank">UNIVERSIDAD FIDELITAS</a></h3>
-      <br>
-          <h3>Video informativo</h3>
+      <h3>Visite la página oficial de: <a href="https://www.ulasalle.ac.cr/" target="_blank">Universidad La Salle</a></h3>
+      
+      <h3>Video informativo</h3>
       <hr>
-          <div class="video-universidad">
-              <iframe src="https://www.youtube.com/embed/fIZjnVMYxnI" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
-          </div>
-    	</div>
+      <div class="video-universidad">
+              <iframe src="https://www.youtube.com/embed/X3E1CLcFldA" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
+      </div>
  </div>
     <!-- /.container -->
 

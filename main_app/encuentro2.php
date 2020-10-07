@@ -303,6 +303,17 @@
                 </div>
               </div></a>         
           </div><!-- div item  -->
+
+          <div class="ih-item circle colored effect1"><a href="ulasalle.php">
+               <div class="spinner"></div>
+              <div class="img"><img src="../img/buttons/bt-ulasalle.png" alt="imagen de la universidad La Salle"></div>
+              <div class="info">
+                <div class="info-back">
+                  <h3>Click aquí</h3>
+                  <p>ULaSalle</p>
+                </div>
+              </div></a>         
+          </div><!-- div item  -->
       </div>     <!-- cierra row-enlaces -->
 
       <!-- cierra container full? -->
