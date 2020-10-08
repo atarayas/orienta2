@@ -69,7 +69,7 @@
   <div class="container container-fullwidth">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h2 class="mt-4 mb-3 mt-right">Enlaces</h2>
+      <h2 class="mt-4 mb-3 mt-right">Enlaces de ofertas de formación</h2>
 
       <ol class="breadcrumb right">
         <li class="breadcrumb-item">
@@ -77,9 +77,14 @@
         </li>
         <li class="breadcrumb-item active">Enlaces</li>
       </ol>
+      <h3>BIENVENIDOS</h3>
+      <hr>
+          <div class="video-intro">
+              <iframe src="https://www.youtube.com/embed/vuYLhI1_ONw" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
+          </div>
+      <hr>
       <h4>Enlaces a universidades y videos</h4>
       <p>Acá, vas a poder revisar las diferentes ofertas de formación, tanto de las Universidades públicas como privadas, así como centros para-universitarios con carreras técnicas, adicional al enlace de cómo financiar tus estudios. Lo que tenés de hacer, es darle click, en el icono de las casas de enseñanzas, ahí aparecerá un video promocional de cada institución y el enlace que te llevará al portal de ese centro de estudio, recuerde que podes hacer las consultas en forma directa a las instituciones, mediante el chat, WhatsApp o número de teléfono que aparece en el sitio web. Adelante con su visita…<p>
-      <p></p>
       <h3>Enlaces</h3>
       <!-- animated links -->
       <div class="row row-enlaces">
