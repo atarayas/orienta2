@@ -98,7 +98,7 @@
           <h3>Video informativo</h3>
       <hr>
           <div class="video-universidad">
-              <iframe src="https://www.youtube.com/embed/Ugoju-2usc4" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
+              <iframe src="https://www.youtube.com/embed/o1VRDPO5pb4" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
           </div>
  </div>
     <!-- /.container -->
