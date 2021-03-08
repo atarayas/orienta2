@@ -132,12 +132,13 @@
                            <a href="mailto:catalina.garcia.bolanos@mep.go.cr">catalina.garcia.bolanos@mep.go.cr</a></td>
                      </tr>
                        <td>San Carlos</td>
-                       <td></td>
-                       <td>     </tr>
+                       <td>2460-8959</td>
+                       <td><a href="mailto:marianela.araya.marin@mep.go.cr">marianela.araya.marin@mep.go.cr</a></td>
+                    </tr>
                      <tr>
                        <td>Norte Norte</td>
                        <td>2470-0534 / 2470-0067</td>
-                       <td><a href="mailto:ilsia.meza.palacios@mep.go.cr">ilsia.meza.palacios@mep.go.cr</a></td>
+                       <td></td>
                      </tr>
                      <tr>
                        <td>Occidente</td>
@@ -187,7 +188,7 @@
 
                      <tr>
                        <td>Turrialba</td>
-                       <td>/</td>
+                       <td>2556-5092</td>
                        <td><a href="mailto:elber.peña.angulo@mep.go.cr">ivannia.solano.ramirez@mep.go.cr</a></td>
                      </tr>
 
@@ -265,8 +266,7 @@
                        <tr>
                          <td>Heredia</td>
                          <td> 2238-0596</td>
-                         <td><a href="mailto:xinia1.sanchez.jimenez@mep.go.cr">xinia1.sanchez.jimenez@mep.go.cr</a><br>
-                             <a href="mailto:elsa.sanchez.arias@mep.go.cr">elsa.sanchez.arias@mep.go.cr</a></td>
+                         <td><a href="mailto:xinia1.sanchez.jimenez@mep.go.cr">xinia1.sanchez.jimenez@mep.go.cr</a></td>
                        </tr>
                        <td>Sarapiquí</td>
                        <td>2766-5823 / 2766-5821</td>
@@ -418,8 +418,9 @@
                      </tr>
                      <tr>
                        <td>Limón</td>
-                       <td>2758-1878 / 2758-2005</td>
-                       <td><a href="mailto:angela.allen.waugh@mep.go.cr">angela.allen.waugh@mep.go.cr</a></td>
+                       <td>2758-1878 / 2758-2005 / 2710-4548</td>
+                       <td><a href="mailto:angela.allen.waugh@mep.go.cr">angela.allen.waugh@mep.go.cr</a><br>
+                       <a href="mailto:yenci.morales.nunez@mep.go.cr">yenci.morales.nunez@mep.go.cr</a> </td>
                      </tr>
                      <tr>
                        <td>Sulá</td>

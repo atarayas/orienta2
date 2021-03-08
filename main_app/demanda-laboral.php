@@ -69,7 +69,7 @@
     <div class="container container-fullwidth">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h2 class="mt-4 mb-3 mt-left">>
+      <h2 class="mt-4 mb-3 mt-left">
 
       <ol class="breadcrumb left">
         <li class="breadcrumb-item">

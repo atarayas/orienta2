@@ -146,6 +146,16 @@ html, body {
   margin-bottom: 0em !important;
 }
 
+#myBtn {
+  cursor: pointer;
+}
+#myBtn :hover{
+ color: black;
+}
+
+
+
+
 /* INCIO DE QUERIES */
 @media screen and (min-width: 447px) and (max-width: 700px)
 {

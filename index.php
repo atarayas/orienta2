@@ -4,7 +4,10 @@
 <!DOCTYPE html>
 <html lang="es" dir="ltr">
   <head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
+    <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <!-- , shrink-to-fit=no"> -->
+      <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129170696-9"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -13,9 +16,6 @@
 
   gtag('config', 'UA-129170696-9');
 </script>
-    <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <!-- , shrink-to-fit=no"> -->
       <link rel="stylesheet" href="vendor/bootstrap-4.1/css/bootstrap.min.css">
       <link rel="stylesheet" href="https://jqueryvalidation.org/files/demo/site-demos.css">
       <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js" charset="utf-8"></script>
@@ -223,6 +223,27 @@
          </div>
        </div>
      </div>
+
+  </div>
+  <div id="modalVideo" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Orientación vocacional</h4>
+      </div>
+      <div class="modal-body">
+        <p></p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+      </div>
+    </div>
+
+  </div>
+</div>
 
   </div>
   <!-- fin div del container -->

@@ -19,7 +19,9 @@
         location='main_app/primaria.php';
        });
  });
-
+function modalVideo() {
+  console.log("hola");
+}
 function callPopovers() {
   $('#mascotaInfo').popover({
     title: "<strong>Mascota</strong>",

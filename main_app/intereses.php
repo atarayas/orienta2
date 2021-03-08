@@ -138,16 +138,6 @@
                 </div>
               </div></a>
           </div>
-          <div class="ih-item circle colored effect1"><a href="http://radiografia.conare.ac.cr/que-puedo-estudiar/artes-y-letras/artes-dramaticas/" target="_blank" alt="¿Qué puedo estudiar?" title="¿Qué puedo estudiar?">
-               <div class="spinner"></div>
-              <div class="img"><img src="../img/buttons/btn-conare.png" alt="img"></div>
-              <div class="info">
-                <div class="info-back">
-                  <h3>Click aquí</h3>
-                  <p>¿Qué estudio?</p>
-                </div>
-              </div></a>
-          </div>
           <div class="ih-item circle colored effect1"><a href="http://infoues.conare.ac.cr/instrumentovocacional" target="_blank" alt="¿Qué puedo estudiar?" title="¿Qué puedo estudiar?">
                <div class="spinner"></div>
               <div class="img"><img src="../img/buttons/btn-infoues.png" alt="img"></div>

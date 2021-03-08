@@ -77,26 +77,26 @@
            <img id="imgLeft"  src="">
            <div class="button_group">
               <div class="ih-item square colored effect5 right_to_left item-button">
-                <a href="intereses.php" target="_self" class="btn btn-block " role="button" id="but_01">¿Conocés tus intereses y habilidades?
+                <a href="intereses.php" target="_self" class="btn btn-principal btn-block " role="button" id="but_01">¿Conocés tus intereses y habilidades?
                   <div class="info">
                     <h3>Intereses y habilidades</h3>
                     <p>Mas información para tí</p>
                   </div></a>
               </div>
               <div class="ih-item square colored effect5 right_to_left item-button">
-                <a href="educacion-tecnica.php" target="_self" class="btn btn-block" role="button" id="but_02">¿Sabés qué es la Educación Técnica?
+                <a href="educacion-tecnica.php" target="_self" class="btn  btn-principal btn-block" role="button" id="but_02">¿Sabés qué es la Educación Técnica?
                 <div class="info"><h3>Educación Técnica </h3><p>Ver más información</p></div></a>
               </div>
               <div class="ih-item square colored effect5 right_to_left item-button">
-                 <a href="carreras.php" target="_self" class="btn btn-block" role="button" id="but_03" alt ="Opciones universitarias">¿Qué puedo estudiar?<br><br>
+                 <a href="carreras.php" target="_self" class="btn btn-principal btn-block" role="button" id="but_03" alt ="Opciones universitarias">¿Qué puedo estudiar?<br><br>
                  <div class="info"><h3>¿Qué puedo estudiar?</h3><p>Ver más información</p></div></a>
               </div>
               <div class="ih-item square colored effect5 right_to_left item-button">
-                  <a href="demanda-laboral.php" target="_self" class="btn btn-block" role="button" id="but_03" alt ="Mercado laboral">¿Sabes cuáles son las demandas del mercado laboral?<br>
+                  <a href="demanda-laboral.php" target="_self" class="btn  btn-principal btn-block" role="button" id="but_03" alt ="Mercado laboral">¿Sabes cuáles son las demandas del mercado laboral?<br>
                   <div class="info"><h3>Demanda laboral</h3><p>Ver más información</p></div></a>
               </div>
               <div class="ih-item square colored effect5 right_to_left item-button">
-                <a href="emprendimiento.php" target="_self" class="btn btn-block" role="button" id="but_05">Emprendimiento <br> ¿qué es?<br>
+                <a href="emprendimiento.php" target="_self" class="btn btn-principal btn-block" role="button" id="but_05">Emprendimiento <br> ¿qué es?<br>
                 <div class="info"><h3>Emprendimiento</h3><p>Ver más información</p></div></a>
               </div>
            </div>
@@ -117,16 +117,17 @@
   
   <!-- The slideshow -->
   <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="../img/encuentro_mujeres1.jpg" class="img-fluid rounded" alt="Encuentro de mujeres" width="1100" height="900">
+  <div class="carousel-item active">
+      <img src="../img/imagen-video.png" class="img-fluid rounded" alt="Encuentro de mujeres" width="1100" height="900">
       <div class="carousel-caption carousel-background d-md-block">
-        <p><a  href="http://orienta2.mep.go.cr/chicasteam/" target="_blank">Encuentro de Mujeres en Ciencia y Tecnología</a></p>
+        <!-- <button id= "myBtn" target="_blank">Video Orientación Vocacional</button> -->
+        <p><a href="video_ov.php">Video Orientación Vocacional</a></p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="../img/orientacion20201.jpg" class="img-fluid rounded" alt="Semana de orientación" width="1100" height="900">
+      <img src="../img/encuentro_mujeres1.jpg" class="img-fluid rounded" alt="Encuentro de mujeres" width="1100" height="900">
       <div class="carousel-caption carousel-background d-md-block">
-      <p><a  href="https://www.mep.go.cr/noticias/mep-celebra-su-xl-semana-nacional-orientacion" target="_blank">XL Semana Nacional de Orientación</a></p>
+        <p><a  href="http://orienta2.mep.go.cr/chicasteam/" target="_blank">Encuentro de Mujeres en Ciencia y Tecnología</a></p>
       </div>
     </div>
     <div class="carousel-item">
@@ -136,13 +137,13 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="../img/digi1.png" alt="Proyecto DigiGirlZ" class="img-fluid rounded" width="1100" height="900">
+      <img src="../img/digi2.png" alt="Proyecto DigiGirlZ" class="img-fluid rounded" width="1100" height="900">
       <div class="carousel-caption carousel-background d-md-block">
          <p><a  href="https://www.mep.go.cr/noticias/mep-se-une-proyecto-digigirlz-potencia-inclusion-mujer-sector-tecnologico-cientifico" target="_blank">MEP se une a Proyecto DIGIGIRLZ</a></p>
       </div>
     </div>
         <div class="carousel-item">
-      <img src="../img/instiproyecto1.png" alt="Noticia para inspirar a jovenes mujeres a estudiar" class="img-fluid rounded" width="1100" height="900">
+      <img src="../img/instiproyecto.png" alt="Noticia para inspirar a jovenes mujeres a estudiar" class="img-fluid rounded" width="1100" height="900">
       <div class="carousel-caption carousel-background d-md-block">
         <p><a  href="https://www.mep.go.cr/noticias/instituciones-se-unen-inspirar-jovenes-mujeres-estudiar-carreras-ingenieriles-tecnologicas" target="_blank">Instituciones se unen para inspirar jóvenes</a></p>
       </div>
@@ -164,15 +165,15 @@
            <img id="imgRight"  src="">
            <div class="button_group">
               <div class="ih-item square colored effect5 right_to_left item-button right-ih-item">
-                  <a href="vida-laboral.php" target="_self" class="btn btn-block" role="button" id="but_06" >Elementos básicos para la <br> vida laboral
+                  <a href="vida-laboral.php" target="_self" class="btn btn-principal btn-block" role="button" id="but_06" >Elementos básicos para la <br> vida laboral
                <div class="info"><h3>Vida laboral</h3><p>Ver más información</p></div></a>
               </div>
               <div class="ih-item square colored effect5 right_to_left item-button right-ih-item">
-                 <a href="idiomas.php" target="_self" class="btn btn-block" role="button" id="but_07">Idiomas, <br> ¡Muy importante!
+                 <a href="idiomas.php" target="_self" class="btn btn-principal btn-block" role="button" id="but_07">Idiomas, <br> ¡Muy importante!
                  <div class="info"><h3>Idiomas</h3><p>Ver más información</p></div></a>
               </div>
               <div class="ih-item square colored effect5 right_to_left item-button right-ih-item">
-                 <a href="financiamiento.php" target="_self" class="btn btn-block" role="button" id="but_08">¿Cómo podés financiar tus <br>estudios?
+                 <a href="financiamiento.php" target="_self" class="btn btn-principal btn-block" role="button" id="but_08">¿Cómo podés financiar tus <br>estudios?
                 <div class="info"><h3>Financiamiento</h3><p>Ver más información</p></div></a>
               </div>
 
@@ -191,6 +192,7 @@
                   </div>
                   <div class="card-body eventos">
                   <p class="modal-events cortar"><a style = "color:white;" href="encuentro2.php"><i class="fa fa-calendar-alt" alt="Encuentro vocacional de orientadores">&nbsp;</i>Encuentro virtual</a></p>
+                  <p class="modal-events cortar"><a style = "color:white;" href="http://orienta2.mep.go.cr/chicasteam/"target = "_blank"><i class="fa fa-calendar-alt" alt="chicasteam">&nbsp;</i>Chicasteam</a></p>
                       <!-- <p class="modal-events cortar" data-toggle="modal" data-target="#myModal1"><i class="fa fa-calendar-alt" alt="Curso capacitación a orientadores">&nbsp;</i>Semana Nacional de Orientación</a></p>  -->
                       <!--<p class="modal-events cortar" data-toggle="modal" data-target="#myModal3"><i class="fa fa-calendar-alt" alt="Lanzamiento del portal">&nbsp;</i>Exámenes de Bachillerato</a></p> -->
                   </div>
@@ -317,5 +319,7 @@
       </div>
       <!-- /.container -->
     </footer>
+
   </body>
+
 </html>

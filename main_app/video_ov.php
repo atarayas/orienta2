@@ -9,7 +9,6 @@
     var tipo = '<?php echo$_SESSION['usuario'];?>'
 </script>
 
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -27,6 +26,7 @@
         <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
         <script src="../js/main.js" charset="utf-8"></script>
+
         <!-- Bootstrap core CSS -->
         <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -66,46 +66,26 @@
     <!-- fin de navigation -->
 
     <!-- Page Content -->
-    <div class="container container-fullwidth">
+  <div class="container container-fullwidth">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h2 class="mt-4 mb-3 mt-left">¿Qué puedo estudiar?</h2>
+      <h2 class="mt-4 mb-3 mt-right">Orientación Vocacional</h2>
 
-      <ol class="breadcrumb left">
+      <ol class="breadcrumb right">
         <li class="breadcrumb-item">
           <a href="principal.php">Inicio</a>
         </li>
-        <li class="breadcrumb-item active">Carreras universitarias</li>
+        <li class="breadcrumb-item active">Video</li>
       </ol>
-      <h4><small>Información sobre la oferta de carreras universitarias</small></h4>
-      <p>Aquí vas a encontrar una amplia gama de carreras que podés estudiar desde las diferentes disciplinas del saber humano, así que toma tu tiempo para conocer las diferentes opciones de educación superior, ¡ah! También es importante revisar que esas carreras cuenten con el sello de  garantía del SINAES que es la entidad encargada de la acreditación de las carreras universitarias, y una carrera acreditada te da ciertas ventajas a la hora de ser seleccionado para un puesto de trabajo.</p>
-      <h3>Enlaces</h3>
-      <!-- animated links -->
-      <div class="row row-enlaces">
-        <div class="ih-item circle colored effect1"><a href="https://waki.cr/" target="_blank">
-             <div class="spinner"></div>
-            <div class="img"><img src="../img/buttons/btn-waki.png" alt="img"></div>
-            <div class="info">
-              <div class="info-back">
-                <h3>Click aquí</h3>
-                <p>WAKI</p>
-              </div>
-            </div>
-        </div>
-        <div class="ih-item circle colored effect1"><a href="https://www.sinaes.ac.cr/index.php/home/carrera" target="_blank">
-             <div class="spinner"></div>
-            <div class="img"><img src="../img/buttons/btn-sinaes.png" alt="img"></div>
-            <div class="info">
-              <div class="info-back">
-                <h3>Click aquí</h3>
-                <p>SINAES</p>
-              </div>
-            </div>
-        </div>
-      </div>
-   <!-- end links -->
-      </div>
-    <!-- /.container -->
+      <h3>Video</h3>
+      <hr>
+          <div class="video-intro">
+              <!-- <iframe src="https://vimeo.com/521112469" allowfullscreen></iframe> aqui copiar igual y solo agregar el id del código -->
+                <iframe src="https://player.vimeo.com/video/521112469" width="100%" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+      <hr>
+     
+  </div> <!-- cierra div full -->
 
     <!-- Footer -->
   <footer class="py-3 bg-footer">
