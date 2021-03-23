@@ -73,6 +73,8 @@
   <header class="front">
     <div class="container">
       <div class="row">
+
+      <!-- columna izquierda -->
         <div id="left-col" class="col-md-3">
            <img id="imgLeft"  src="">
            <div class="button_group">
@@ -101,66 +103,69 @@
               </div>
            </div>
         </div>
+      <!-- fin de columna izquierda -->
 
+<!-- columna centro -->
         <div id="center-col" class="col-md-6 col-carousel">
         <!-- inicio del carrusel -->
-        <div id="demo" class="carousel slide" data-ride="carousel">
-
-  <!-- Indicators -->
-  <ul class="carousel-indicators">
-    <li data-target="#demo" data-slide-to="0" class="active"></li>
-    <li data-target="#demo" data-slide-to="1"></li>
-    <li data-target="#demo" data-slide-to="2"></li>
-    <li data-target="#demo" data-slide-to="3"></li>
-    <li data-target="#demo" data-slide-to="5"></li>
-  </ul>
+          <div id="demo" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ul class="carousel-indicators">
+              <li data-target="#demo" data-slide-to="0" class="active"></li>
+              <li data-target="#demo" data-slide-to="1"></li>
+              <li data-target="#demo" data-slide-to="2"></li>
+              <li data-target="#demo" data-slide-to="3"></li>
+              <li data-target="#demo" data-slide-to="5"></li>
+            </ul>
   
-  <!-- The slideshow -->
-  <div class="carousel-inner">
-  <div class="carousel-item active">
-      <img src="../img/imagen-video.png" class="img-fluid rounded" alt="Encuentro de mujeres" width="1100" height="900">
-      <div class="carousel-caption carousel-background d-md-block">
-        <!-- <button id= "myBtn" target="_blank">Video Orientación Vocacional</button> -->
-        <p><a href="video_ov.php">Video Orientación Vocacional</a></p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="../img/encuentro_mujeres1.jpg" class="img-fluid rounded" alt="Encuentro de mujeres" width="1100" height="900">
-      <div class="carousel-caption carousel-background d-md-block">
-        <p><a  href="http://orienta2.mep.go.cr/chicasteam/" target="_blank">Encuentro de Mujeres en Ciencia y Tecnología</a></p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="../img/img-encuentro-mujeres1.png" class="img-fluid rounded" alt="Estudiantes mujeres rompen estereotipos" width="1100" height="900">
-      <div class="carousel-caption carousel-background d-md-block">
-          <p><a  href="https://www.mep.go.cr/noticias/estudiantes-mujeres-se-unen-romper-estereotipos" target="_blank">Estudiantes mujeres se unen para romper estereotipos</a></p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="../img/digi2.png" alt="Proyecto DigiGirlZ" class="img-fluid rounded" width="1100" height="900">
-      <div class="carousel-caption carousel-background d-md-block">
-         <p><a  href="https://www.mep.go.cr/noticias/mep-se-une-proyecto-digigirlz-potencia-inclusion-mujer-sector-tecnologico-cientifico" target="_blank">MEP se une a Proyecto DIGIGIRLZ</a></p>
-      </div>
-    </div>
-        <div class="carousel-item">
-      <img src="../img/instiproyecto.png" alt="Noticia para inspirar a jovenes mujeres a estudiar" class="img-fluid rounded" width="1100" height="900">
-      <div class="carousel-caption carousel-background d-md-block">
-        <p><a  href="https://www.mep.go.cr/noticias/instituciones-se-unen-inspirar-jovenes-mujeres-estudiar-carreras-ingenieriles-tecnologicas" target="_blank">Instituciones se unen para inspirar jóvenes</a></p>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Left and right controls -->
-  <a class="carousel-control-prev" href="#demo" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
-  </a>
-  <a class="carousel-control-next" href="#demo" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
-  </a>
-</div>
+              <!-- The slideshow -->
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="../img/imagen-video.png" class="img-fluid rounded" alt="Encuentro de mujeres" width="1100" height="900">
+                    <div class="carousel-caption carousel-background d-md-block">
+                      <!-- <button id= "myBtn" target="_blank">Video Orientación Vocacional</button> -->
+                      <p><a href="video_ov.php">Video Orientación Vocacional</a></p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="../img/encuentro_mujeres1.jpg" class="img-fluid rounded" alt="Encuentro de mujeres" width="1100" height="900">
+                    <div class="carousel-caption carousel-background d-md-block">
+                      <p><a  href="https://orienta2.mep.go.cr/chicasteam/" target="_blank">Encuentro de Mujeres en Ciencia y Tecnología</a></p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="../img/img-encuentro-mujeres1.png" class="img-fluid rounded" alt="Estudiantes mujeres rompen estereotipos" width="1100" height="900">
+                    <div class="carousel-caption carousel-background d-md-block">
+                        <p><a  href="https://www.mep.go.cr/noticias/estudiantes-mujeres-se-unen-romper-estereotipos" target="_blank">Estudiantes mujeres se unen para romper estereotipos</a></p>
+                  </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="../img/digi2.png" alt="Proyecto DigiGirlZ" class="img-fluid rounded" width="1100" height="900">
+                    <div class="carousel-caption carousel-background d-md-block">
+                      <p><a  href="https://www.mep.go.cr/noticias/mep-se-une-proyecto-digigirlz-potencia-inclusion-mujer-sector-tecnologico-cientifico" target="_blank">MEP se une a Proyecto DIGIGIRLZ</a></p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="../img/instiproyecto.png" alt="Noticia para inspirar a jovenes mujeres a estudiar" class="img-fluid rounded" width="1100" height="900">
+                    <div class="carousel-caption carousel-background d-md-block">
+                      <p><a  href="https://www.mep.go.cr/noticias/instituciones-se-unen-inspirar-jovenes-mujeres-estudiar-carreras-ingenieriles-tecnologicas" target="_blank">Instituciones se unen para inspirar jóvenes</a></p>
+                    </div>
+                </div>
+              </div>
+    
+              <!-- Left and right controls -->
+              <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+              </a>
+              <a class="carousel-control-next" href="#demo" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+              </a>
+          </div>
           <!-- fin carousel -->
         </div>
-        <!-- columna 3 -->
+       <!-- fin columna centro -->
+      
+        <!-- columna 3 - derecha -->
         <div id="right-col" class="col-md-3">
            <img id="imgRight"  src="">
            <div class="button_group">
@@ -176,121 +181,17 @@
                  <a href="financiamiento.php" target="_self" class="btn btn-principal btn-block" role="button" id="but_08">¿Cómo podés financiar tus <br>estudios?
                 <div class="info"><h3>Financiamiento</h3><p>Ver más información</p></div></a>
               </div>
-
-              <!-- <div class="ih-item square colored effect5 right_to_left item-button right-ih-item"> -->
-              <div class="item-encuentro">
-                  <a href="encuentro2.php" "><img  class="img-fluid" src="../img/btn_encuentro_vocacional_virtual.png" alt="Encuentro vocacacional virtual" ></a>
+              <div class="ih-item square colored effect5 right_to_left item-button right-ih-item">
+                 <a href="http://orienta2.mep.go.cr/chicasteam/" target="_blank" class="btn btn-principal btn-block" role="button" id="but_08">Chicas team
+                <div class="info"><h3>Chicas Team</h3><p>Ver más información</p></div></a>
               </div>
-
-           </div>
-           <div id="image-novedades" class="btn-block">
-              <div class="card styleCard">
-                  <span class="right hook"></span>
-                  <span class="left hook"></span>
-                  <div class="card-header text-center carousel-background btn-right">
-                      <span>Próximos eventos</span>
-                  </div>
-                  <div class="card-body eventos">
-                  <p class="modal-events cortar"><a style = "color:white;" href="encuentro2.php"><i class="fa fa-calendar-alt" alt="Encuentro vocacional de orientadores">&nbsp;</i>Encuentro virtual</a></p>
-                  <p class="modal-events cortar"><a style = "color:white;" href="http://orienta2.mep.go.cr/chicasteam/"target = "_blank"><i class="fa fa-calendar-alt" alt="chicasteam">&nbsp;</i>Chicasteam</a></p>
-                      <!-- <p class="modal-events cortar" data-toggle="modal" data-target="#myModal1"><i class="fa fa-calendar-alt" alt="Curso capacitación a orientadores">&nbsp;</i>Semana Nacional de Orientación</a></p>  -->
-                      <!--<p class="modal-events cortar" data-toggle="modal" data-target="#myModal3"><i class="fa fa-calendar-alt" alt="Lanzamiento del portal">&nbsp;</i>Exámenes de Bachillerato</a></p> -->
-                  </div>
-              </div>
-              <div class="modal modal-right fade" id="myModal1">
-                <div class="modal-dialog modal-md">
-                   <div class="modal-content">
-                      <!-- Modal Header -->
-                      <div class="modal-header carousel-background btn-right d-flex flex-column">
-                        <div class="d-flex flex-row">
-                            <h4 class="modal-title text-center ">Semana Nacional de Orientación</h4>
-                            <!-- <button type="button" class="close" data-dismiss="modal">&times;</button> -->
-                        </div>
-                        <div class="d-flex flex-row">
-                          <div class="left hook-open-modal"></div>
-                          <div class="right hook-open-modal"></div>
-                        </div>
-                      </div>
-                      <!-- Modal body -->
-                      <div class="modal-body">
-                          <p> <strong>Fecha: </strong>Del 15 al 19 de junio de 2020</p>
-                          <!-- <p> <strong>Horario: </strong>de 8:00am a 4:00pm</p> -->
-                          <p> <strong>Tema: </strong>Desarrollo de habilidades y competencias en las personas estudiantes con énfasis en las áreas STEAM, que incrementan oportunidades personales, sociales, educativas, culturales y laborales en un mundo cambiante.</p>
-                          <p> <strong>Lema: </strong>Abriendo puertas a los retos y oportunidades de un mundo cambiante.</p>
-                          <p><img class="img-thumbnail"  src="../img/afiche-semana-orientacion2020.jpg" alt="Semana de orientación"> </p>
-                      </div>
-                      <!-- Modal footer -->
-                      <div class="modal-footer carousel-background">
-                        <button type="button" class="btn btn-modal-close" data-dismiss="modal">Cerrar</button>
-                      </div>
-                  </div>
-                </div>
-              </div>
-
-              <!-- <div class="modal modal-right fade" id="myModal2">
-                <div class="modal-dialog modal-md">
-                  <div class="modal-content">-->
-                     <!-- Modal Header -->
-                     <!-- <div class="modal-header carousel-background btn-right d-flex flex-column">
-                       <div class="d-flex flex-row">
-                           <h4 class="modal-title text-center ">Encuentro vocacional de orientadores</h4>
-                           <button type="button" class="close" data-dismiss="modal">&times;</button>
-                       </div>
-                       <div class="d-flex flex-row">
-                         <div class="left hook-open-modal"></div>
-                         <div class="right hook-open-modal"></div>
-                       </div>
-                     </div> -->
-                    <!-- Modal body -->
-                      <!-- <div class="modal-body">
-                          <p> <strong>Fecha: </strong>19 octubre de 2018</p>
-                          <p> <strong>Horario: </strong>de 8:00am a 3:00pm</p>
-                          <p> <strong>Lugar: </strong>Universidad Hispanoramerica, Aranjuez</p>
-                          <p> <strong>Descripción: </strong>En ese encuentro se reforzara sobre las principales tendencias en la orientación vocacional con miras a responder las demadas laborales y ocupacionales, junto al lanzamiento de un portal de información vocacional.</p>
-                      </div> -->
-
-                      <!-- Modal footer -->
-                      <!-- <div class="modal-footer carousel-background">
-                        <button type="button" class="btn btn-modal-close" data-dismiss="modal">Cerrar</button>
-                      </div>
-                  </div>
-                </div>
-              </div>
-              <div class="modal modal-right fade" id="myModal3">
-                  <div class="modal-dialog modal-md">
-                     <div class="modal-content"> -->
-                          <!-- Modal Header -->
-                          <!-- Modal Header -->
-                          <!-- <div class="modal-header carousel-background btn-right d-flex flex-column">
-                            <div class="d-flex flex-row">
-                                <h4 class="modal-title text-center ">Exámenes de bachillerato de colegios académicos</h4>
-                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                            </div>
-                            <div class="d-flex flex-row">
-                              <div class="left hook-open-modal"></div>
-                              <div class="right hook-open-modal"></div>
-                            </div>
-                          </div> -->
-                          <!-- Modal body -->
-                          <!-- <div class="modal-body">
-                              <p> <strong>Fecha: </strong>Del 30 de octubre al 06 de noviembre 2018</p>
-                              <p> <strong>Horario: </strong>9:00am diurnos - 6:00pm nocturnos</p>
-                              <p> <strong>Lugar: </strong>Centros educativos de secundaria</p>
-                              <p> <strong>Descripción: </strong>Pruebas de acreditación como requisito de graduación de secundaria.</p>
-                          </div> -->
-
-                          <!-- Modal footer -->
-                          <!-- <div class="modal-footer carousel-background">
-                            <button type="button" class="btn btn-modal-close" data-dismiss="modal">Cerrar</button>
-                          </div>
-                      </div>
-                    </div>
-                  </div> -->
-
-            </div>
+          </div>
         </div>
-      </div>  <!-- /.row -->
-    </div>
+
+      <!-- </div>
+        </div> -->
+      </div>  <!-- row -->
+    </div>    <!-- div container -->
   </header>
   <div class="container">
       <!-- Redes sociales -->
