@@ -5,6 +5,7 @@
 <html lang="es" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <link rel="icon" href="favicon.ico" />
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <!-- , shrink-to-fit=no"> -->
       <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -73,7 +74,7 @@
                        <label for="cedini"><h3>Digita tú numero de identificación:&nbsp;&nbsp;</label></h3>
                        <input class="form-control form-control-sm" type="text" id="cedini" name="cedini" required><br>
                    </div>
-                   <div id="alert-cedula" class="alert alert-aviso alert-dismissible">
+                   <div id="alert-cedula" class="alert alert-aviso alert-dismissible mt-4">
                     <button type="button" class="close" data-dismiss="alert">&times;</button>
                     <div id='s-valida'></div>
                      <p id="texto-cedula" class="small"><strong>Importante! </strong></p>

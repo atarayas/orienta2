@@ -13,6 +13,7 @@
   <head>
 
     <meta charset="utf-8">
+    <link rel="icon" href="favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -87,18 +88,21 @@
       <h2 class="mt-4 mb-3 mt-right">UNIVERSIDAD EARTH</h2>
 
       <ol class="breadcrumb right">
+      <li class="breadcrumb-item">
+          <a href="principal.php">Inicio</a>
+        </li>
         <li class="breadcrumb-item">
-          <a href="encuentro2.php">Inicio</a>
+          <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
         <li class="breadcrumb-item active">UNIVERSIDAD EARTH</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://www.earth.ac.cr/es/" target="_blank">UNIVERSIDAD EARTH</a></h3>
+      <h3>Visite la página oficial de: <a href="http://alimenta-al-mundo.earth.ac.cr/quienes_somos" target="_blank">UNIVERSIDAD EARTH</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>
           <div class="video-universidad">
-              <iframe src="https://www.youtube.com/embed/Em-YNMyz_NI" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
+              <iframe src="https://www.youtube.com/embed/ztBgjvit-JU" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
           </div>
     	</div>
  </div>

@@ -424,6 +424,7 @@
   -ms-transform: translateY(100%);
   -o-transform: translateY(100%);
   transform: translateY(100%);
+  color: red;
 }
 .ih-item.circle.effect3.bottom_to_top a:hover .img {
   -webkit-transform: scale(0.5) translateY(-100%);
@@ -2683,6 +2684,10 @@
   /* background: #1a4a72; */
     background: #F18C00;
 }
+.ih-item.square.effect3.colored.color-right .info {
+  /* background: #1a4a72; */
+    background:#A9CD25;
+}
 .ih-item.square.effect3 .img {
   -webkit-transform: translateY(0);
   -moz-transform: translateY(0);
@@ -2709,11 +2714,12 @@
   padding: 10px 10px 0 4px;
   margin: 4px 0 0 0;
 }
+
 .ih-item.square.effect3 .info p {
-  font-style: italic;
+  /* font-style: italic; */
   font-size: 12px;
   position: relative;
-  color: #bbb;
+  color: black;
   padding: 5px;
   text-align: center;
 }

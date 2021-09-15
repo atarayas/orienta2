@@ -13,6 +13,7 @@
   <head>
 
     <meta charset="utf-8">
+    <link rel="icon" href="favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -87,8 +88,11 @@
       <h2 class="mt-4 mb-3 mt-right">UNIVERSIDAD DE IBEROAMERICA</h2>
 
       <ol class="breadcrumb right">
+      <li class="breadcrumb-item">
+          <a href="principal.php">Inicio</a>
+        </li>
         <li class="breadcrumb-item">
-          <a href="encuentro2.php">Inicio</a>
+          <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
         <li class="breadcrumb-item active">UNIVERSIDAD DE IBEROAMERICA</li>
       </ol>
@@ -98,7 +102,7 @@
           <h3>Video informativo</h3>
       <hr>
           <div class="video-universidad">
-              <iframe src="https://www.youtube.com/embed/RSqTQoS726E" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
+              <iframe src="https://www.youtube.com/embed/ZFNP8Y25EIQ" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
           </div>
     	</div>
  </div>

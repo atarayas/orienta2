@@ -13,10 +13,8 @@
   <head>
 
     <meta charset="utf-8">
+    <link rel="icon" href="favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    X-Frame-Options: ALLOW-FROM https://example.com/
 
     <title>Orientacion Vocacional | Ministerio de Educación Pública</title>
 
@@ -87,13 +85,16 @@
       <h2 class="mt-4 mb-3 mt-right">UNIVERSIDAD LATINA</h2>
 
       <ol class="breadcrumb right">
+      <li class="breadcrumb-item">
+          <a href="principal.php">Inicio</a>
+        </li>
         <li class="breadcrumb-item">
-          <a href="encuentro2.php">Inicio</a>
+          <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
         <li class="breadcrumb-item active">ULatina</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://www.ulatina.ac.cr/">UNIVERSIDAD LATINA</a></h3>
+      <h3>Visite la página oficial de: <a href="https://prospeccioncolegiosulatina.com/" target="_blank">UNIVERSIDAD LATINA</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

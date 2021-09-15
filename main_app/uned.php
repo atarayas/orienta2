@@ -13,6 +13,7 @@
   <head>
 
     <meta charset="utf-8">
+    <link rel="icon" href="favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -88,17 +89,20 @@
 
       <ol class="breadcrumb right">
         <li class="breadcrumb-item">
-          <a href="encuentro2.php">Inicio</a>
+          <a href="principal.php">Inicio</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
         <li class="breadcrumb-item active">UNIVERSIDAD ESTATAL A DISTANCIA</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://www.uned.ac.cr/" target="_blank">UNIVERSIDAD ESTATAL A DISTANCIA</a></h3>
+      <h3>Visite la página oficial de: <a href="https://www.uned.ac.cr/oferta-educativa/carreras" target="_blank">UNIVERSIDAD ESTATAL A DISTANCIA</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>
           <div class="video-universidad">
-              <iframe src="https://www.youtube.com/embed/6430vyScDgg" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
+              <iframe src="https://www.youtube.com/embed/0tEAawhI3t0" allowfullscreen></iframe> <!-- aqui copiar igual y solo agregar el id del código -->
           </div>
     	</div>
  </div>
