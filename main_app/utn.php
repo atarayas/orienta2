@@ -94,10 +94,10 @@
         <li class="breadcrumb-item">
           <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
-        <li class="breadcrumb-item active">UNIVERSIDAD TÉCNICA NACIONAL</li>
+        <li class="breadcrumb-item active">Universidad Técnica Nacional</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://www.utn.ac.cr/carreras" target="_blank">UNIVERSIDAD TÉCNICA NACIONAL</a></h3>
+      <h3>Visite la página oficial de: <a href="https://www.utn.ac.cr/carreras" target="_blank">Universidad Técnica Nacional</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

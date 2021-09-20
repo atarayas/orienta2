@@ -94,10 +94,10 @@
         <li class="breadcrumb-item">
           <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
-        <li class="breadcrumb-item active">UNIVERSIDAD ESTATAL A DISTANCIA</li>
+        <li class="breadcrumb-item active">Universidad Estatal a Distancia</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://www.uned.ac.cr/oferta-educativa/carreras" target="_blank">UNIVERSIDAD ESTATAL A DISTANCIA</a></h3>
+      <h3>Visite la página oficial de: <a href="https://www.uned.ac.cr/oferta-educativa/carreras" target="_blank">Universidad Estatal a Distancia</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

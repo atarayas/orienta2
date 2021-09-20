@@ -94,10 +94,10 @@
         <li class="breadcrumb-item">
           <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
-        <li class="breadcrumb-item active">UNIVERSIDAD ISAAC NEWTON</li>
+        <li class="breadcrumb-item active">Universidad Isaac Newton</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://uin.cr/" target="_blank">UNIVERSIDAD ISAAC NEWTON</a></h3>
+      <h3>Visite la página oficial de: <a href="https://uin.cr/" target="_blank">Universidad Isaac Newton</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

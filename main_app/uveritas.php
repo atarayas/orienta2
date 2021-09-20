@@ -94,10 +94,10 @@
         <li class="breadcrumb-item">
           <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
-        <li class="breadcrumb-item active">UNIVERSIDAD VERITAS</li>
+        <li class="breadcrumb-item active">Universidad VERITAS</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://www.veritas.cr/" target="_blank">UNIVERSIDAD VERITAS</a></h3>
+      <h3>Visite la página oficial de: <a href="https://www.veritas.cr/" target="_blank">Universidad VERITAS</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

@@ -94,10 +94,10 @@
         <li class="breadcrumb-item">
           <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
-        <li class="breadcrumb-item active">COLEGIO UNIVERSITARIO DE LIMÓN</li>
+        <li class="breadcrumb-item active">Colegio Universitario de Limón</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://www.cunlimon.ac.cr" target="_blank">COLEGIO UNIVERSITARIO DE LIMÓN</a></h3>
+      <h3>Visite la página oficial de: <a href="https://www.cunlimon.ac.cr" target="_blank">Colegio Universitario de Limón</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

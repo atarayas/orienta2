@@ -94,10 +94,10 @@
         <li class="breadcrumb-item">
           <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
-        <li class="breadcrumb-item active">UNIVERSIDADESCR</li>
+        <li class="breadcrumb-item active">unversidades.cr</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://universidades.cr/" target="_blank">UNIVERSIDADES.CR</a></h3>
+      <h3>Visite la página oficial de: <a href="https://universidades.cr/" target="_blank">unversidades.cr</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

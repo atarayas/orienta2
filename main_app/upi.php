@@ -94,10 +94,10 @@
         <li class="breadcrumb-item">
           <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
-        <li class="breadcrumb-item active">UNIVERSIDAD POLITÉCNICA INTERNACIONAL</li>
+        <li class="breadcrumb-item active">Universidad Politécnica Internacional</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://www.upi.ac.cr/bachilleratos-y-licenciaturas" target="_blank">UNIVERSIDAD POLITÉCNICA INTERNACIONAL</a></h3>
+      <h3>Visite la página oficial de: <a href="https://www.upi.ac.cr/bachilleratos-y-licenciaturas" target="_blank">Universidad Politécnica Internacional</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

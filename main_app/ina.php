@@ -94,10 +94,10 @@
         <li class="breadcrumb-item">
           <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
-        <li class="breadcrumb-item active">INSTITUTO NACIONAL DE APRENDIZAJE</li>
+        <li class="breadcrumb-item active">INA</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://www.facebook.com/institutonacionaldeaprendizaje " target="_blank">INSTITUTO NACIONAL DE APRENDIZAJE</a></h3>
+      <h3>Visite la página oficial de: <a href="https://www.facebook.com/institutonacionaldeaprendizaje " target="_blank">Instituto Nacional de Aprendizaje</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

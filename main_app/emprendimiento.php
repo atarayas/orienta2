@@ -70,7 +70,7 @@
     <div class="container container-fullwidth">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h2 class="mt-4 mb-3 mt-left"></h2>
+      <h2 class="mt-4 mb-3 mt-left">¡Emprendimiento! ¿Qué es?</h2>
 
       <ol class="breadcrumb left">
         <li class="breadcrumb-item">
@@ -78,8 +78,6 @@
         </li>
         <li class="breadcrumb-item active">Emprendimiento</li>
       </ol>
-
-      <h4>¡Emprendimiento! ¿Qué es?</h4>
        <p>El emprendimiento es la capacidad de la persona para poner en la realidad sus ideas y aprovechar las oportunidades de su entorno, lo cual le permite iniciar un servicio o negocio, que le produzca rendimiento económico, a la vez, aportar a su comunidad y país.</p>
        <p>Es una manera de tener un negocio personal, donde asumes la responsabilidad de tu propia jefatura, y respondes a las demandas de las personas a quienes va dirigido tu negocio.</p>
        <p>¿Te gustó lo que leíste? Sí es afirmativo… ingresá a: </p>

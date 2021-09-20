@@ -94,10 +94,10 @@
         <li class="breadcrumb-item">
           <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
-        <li class="breadcrumb-item active">ETAI PARAUNIVERSITARIA</li>
+        <li class="breadcrumb-item active">ETAI Parauniversitaria</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://www.etai.ac.cr/etai/" target="_blank">ETAI PARAUNIVERSITARIA</a></h3>
+      <h3>Visite la página oficial de: <a href="https://www.etai.ac.cr/etai/" target="_blank">ETAI Parauniversitaria</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

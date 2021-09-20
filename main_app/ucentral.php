@@ -94,7 +94,7 @@
         <li class="breadcrumb-item">
           <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
-        <li class="breadcrumb-item active">UNIVERSIDAD CENTRAL</li>
+        <li class="breadcrumb-item active">Universidad Central</li>
       </ol>
 
       <h3>Visite la página oficial de: <a href="https://www.uc.ac.cr" target="_blank">Universidad Central</a></h3>

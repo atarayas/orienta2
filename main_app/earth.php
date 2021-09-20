@@ -94,10 +94,10 @@
         <li class="breadcrumb-item">
           <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
-        <li class="breadcrumb-item active">UNIVERSIDAD EARTH</li>
+        <li class="breadcrumb-item active">Universidad EARTH</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="http://alimenta-al-mundo.earth.ac.cr/quienes_somos" target="_blank">UNIVERSIDAD EARTH</a></h3>
+      <h3>Visite la página oficial de: <a href="http://alimenta-al-mundo.earth.ac.cr/quienes_somos" target="_blank">Universidad EARTH</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

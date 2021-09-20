@@ -94,10 +94,10 @@
         <li class="breadcrumb-item">
           <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
-        <li class="breadcrumb-item active">UNIVERSIDAD DE IBEROAMERICA</li>
+        <li class="breadcrumb-item active">Universidad de Iberoamérica</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://www.unibe.ac.cr/" target="_blank">UNIVERSIDAD DE IBEROAMERICA</a></h3>
+      <h3>Visite la página oficial de: <a href="https://www.unibe.ac.cr/" target="_blank">Universidad de Iberoamérica</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

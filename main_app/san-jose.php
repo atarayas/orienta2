@@ -94,10 +94,10 @@
         <li class="breadcrumb-item">
           <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
-        <li class="breadcrumb-item active">UNIVERSIDAD SAN JOSÉ</li>
+        <li class="breadcrumb-item active">Universidad San José</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://usanjose.com/" target="_blank">UNIVERSIDAD SAN JOSÉ</a></h3>
+      <h3>Visite la página oficial de: <a href="https://usanjose.com/" target="_blank">Universidad San José</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

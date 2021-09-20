@@ -73,6 +73,7 @@ a.btn-principal:hover {
   color:white!important;
   font-weight: bold;
 }
+
 .ug-under-780.ug-videoskin-right-thumb .ug-thumb-title {
     font-size: 11px!important;
 
@@ -267,10 +268,9 @@ div.btn-col {
       border-radius: 3px;
 }
 
-/* .col-carousel {
-  padding-top: 2%;
-  margin-bottom: 15%;
-} */
+.col-carousel {
+  padding: 2%;
+}
 .carousel-inner img, .carousel-inner  {
     /* width: 100%; */
     height: 100%;

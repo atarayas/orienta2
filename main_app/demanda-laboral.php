@@ -70,7 +70,7 @@
     <div class="container container-fullwidth">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h2 class="mt-4 mb-3 mt-left">
+      <h2 class="mt-4 mb-3 mt-left">¿Sabés cuáles son las demandas del mercado laboral?</h2>
 
       <ol class="breadcrumb left">
         <li class="breadcrumb-item">
@@ -79,8 +79,7 @@
         <li class="breadcrumb-item active">Demanda laboral</li>
       </ol>
 
-      <h4>¿Sabés cuáles son las demandas del mercado laboral?<br>
-           <small>Ofertas /demandas laboral </small></h4>
+      <h4>Ofertas /demanda laboral</h4>
       <p>El mundo se mueve, ciertamente la sociedad costarricense no puede ni debe quedarse atrás, por lo que es primordial que conozcas ¿cómo pinta el ambiente de trabajo? Recuerda que el concepto de trabajo, desde la física o economía, se ven como un movimiento o fuerza aplicada, en este caso fuerza laboral que se conocen sobre las personas que desempeñan alguna ocupación que le produce resultados tanto económicos como de realización personal.</p>
       <P>En este apartado, podés ver las tendencias en cuanto al empleo en el sector productivo y las demandas que se requiere para llenar las plazas en las empresas e instituciones.</P>
       <h3>Enlaces</h3>

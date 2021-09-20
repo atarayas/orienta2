@@ -97,7 +97,7 @@
         <li class="breadcrumb-item active">CENFOTEC</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://www.ucenfotec.ac.cr/" target="_blank">UNIVERSIDAD CENFOTEC</a></h3>
+      <h3>Visite la página oficial de: <a href="https://www.ucenfotec.ac.cr/" target="_blank">Universidad CENFOTEC</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

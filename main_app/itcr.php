@@ -94,10 +94,10 @@
         <li class="breadcrumb-item">
           <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
-        <li class="breadcrumb-item active">INSTITUTO TECNOLÓGICO DE COSTA RICA</li>
+        <li class="breadcrumb-item active">Instituto Tecnológico de Costa Rica</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://www.tec.ac.cr/feria-vocacional" target="_blank">INSTITUTO TECNOLÓGICO DE COSTA RICA</a></h3>
+      <h3>Visite la página oficial de: <a href="https://www.tec.ac.cr/feria-vocacional" target="_blank">Instituto Tecnológico de Costa Rica</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

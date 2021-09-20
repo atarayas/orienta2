@@ -94,10 +94,10 @@
         <li class="breadcrumb-item">
           <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
-        <li class="breadcrumb-item active">UNIVERSIDAD INTERNACIONAL SAN ISIDRO LABRADOR</li>
+        <li class="breadcrumb-item active">Universidad Internacional San Isidro Labrador</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://uisil.ac.cr/" target="_blank">UNIVERSIDAD INTERNACIONAL SAN ISIDRO LABRADOR</a></h3>
+      <h3>Visite la página oficial de: <a href="https://uisil.ac.cr/" target="_blank">Universidad Internacional San Isidro Labrador</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

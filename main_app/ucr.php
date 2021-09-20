@@ -94,10 +94,10 @@
         <li class="breadcrumb-item">
           <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
-        <li class="breadcrumb-item active">UNIVERSIDAD DE COSTA RICA</li>
+        <li class="breadcrumb-item active">Universidad de Costa Rica</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://feriavocacional.ucr.ac.cr/" target="_blank">UNIVERSIDAD DE COSTA RICA</a></h3>
+      <h3>Visite la página oficial de: <a href="https://feriavocacional.ucr.ac.cr/" target="_blank">Universidad de Costa Rica</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

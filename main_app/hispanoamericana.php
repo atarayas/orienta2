@@ -94,10 +94,10 @@
         <li class="breadcrumb-item">
           <a href="encuentro-vocacional.php">Encuentro Vocacional</a>
         </li>
-        <li class="breadcrumb-item active">UNIVERSIDAD HISPANOAMERICANA</li>
+        <li class="breadcrumb-item active">Universidad Hispanoamericana</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://www.uhplay.online" target="_blank">UNIVERSIDAD HISPANOAMERICANA</a></h3>
+      <h3>Visite la página oficial de: <a href="https://www.uhplay.online" target="_blank">Universidad Hispanoamericana</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

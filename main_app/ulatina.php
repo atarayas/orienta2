@@ -94,7 +94,7 @@
         <li class="breadcrumb-item active">ULatina</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://prospeccioncolegiosulatina.com/" target="_blank">UNIVERSIDAD LATINA</a></h3>
+      <h3>Visite la página oficial de: <a href="https://prospeccioncolegiosulatina.com/" target="_blank">Universidad Latina</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

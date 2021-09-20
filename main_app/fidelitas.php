@@ -97,7 +97,7 @@
         <li class="breadcrumb-item active">FIDELITAS</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="https://ufidelitas.ac.cr/" target="_blank">UNIVERSIDAD FIDELITAS</a></h3>
+      <h3>Visite la página oficial de: <a href="https://ufidelitas.ac.cr/" target="_blank">Universidad FIDELITAS</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>

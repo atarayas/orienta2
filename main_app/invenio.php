@@ -91,10 +91,10 @@
         <li class="breadcrumb-item">
           <a href="encuentro2.php">Inicio</a>
         </li>
-        <li class="breadcrumb-item active">UNIVERSIDAD INVENIO</li>
+        <li class="breadcrumb-item active">Universidad Invenio</li>
       </ol>
 
-      <h3>Visite la página oficial de: <a href="http://www.invenio.ac.cr/" target="_blank">UNIVERSIDAD INVENIO</a></h3>
+      <h3>Visite la página oficial de: <a href="http://www.invenio.ac.cr/" target="_blank">Universidad Invenio</a></h3>
       <br>
           <h3>Video informativo</h3>
       <hr>
