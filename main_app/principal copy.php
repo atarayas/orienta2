@@ -114,13 +114,7 @@
   
               <!-- The slideshow -->
               <div class="carousel-inner">
-              <div class="carousel-item active">
-                    <img src="../img/logo-encuentro.png" alt="Encuentro Vocacional Virtual" class="img-fluid rounded">
-                    <div class="carousel-caption carousel-background d-md-block">
-                      <p><a  href="encuentro-vocacional.php">Encuentro Vocacional Virtual</a></p>
-                    </div>
-                </div>
-                <div class="carousel-item">
+                <div class="carousel-item active">
                     <!-- <img src="../img/imagen-video.png" class="img-fluid rounded" alt="Encuentro de mujeres" width="1100" height="900"> -->
                     <img src="../img/imagen-video.png" class="img-fluid rounded" alt="imagen de Orientació vocacional">
                     <div class="carousel-caption carousel-background d-md-block">
@@ -150,6 +144,12 @@
                     <img src="../img/insti_proyecto.png" alt="Noticia para inspirar a jovenes mujeres a estudiar" class="img-fluid rounded">
                     <div class="carousel-caption carousel-background d-md-block">
                       <p><a  href="https://www.mep.go.cr/noticias/instituciones-se-unen-inspirar-jovenes-mujeres-estudiar-carreras-ingenieriles-tecnologicas" target="_blank">Instituciones se unen para inspirar jóvenes</a></p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="../img/logo-encuentro.png" alt="Encuentro Vocacional Virtual" class="img-fluid rounded">
+                    <div class="carousel-caption carousel-background d-md-block">
+                      <p><a  href="encuentro-vocacional.php" target="_blank">Encuentro Vocacional Virtual</a></p>
                     </div>
                 </div>
               </div>
@@ -184,6 +184,7 @@
               </div>
               <div class="btn-col btn-encuentro">
                  <a href="encuentro-vocacional.php" class="btn btn-principal btn-text-encuentro btn-block" role="button" id="but_08">
+                   <!-- <img src="././img/btn_encuentro_vocacional_virtual.png" alt="imagen del encuentro vocacional"> -->
                    <span>
                       Encuentro <br>
                       Vocacional Virtual <br>

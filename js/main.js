@@ -47,7 +47,7 @@ function callInfoFooter() {
   $('#imgRight').addClass("img-title");
   $('#imgLeft').addClass("img-title");
   $("#text-footer").html("©2018 Ministerio de Educacion Pública de Costa Rica. Todos los derechos reservados.<br>Elaborado por DIG y DRTE, en colaboración con la OEI")
-  $("#sec-footer").html("<span><img class='img-footer' src='../img/img-logo-oei.jpg' alt='imagen del logo de la OEI'></span>");
+  // $("#sec-footer").html("<span><img class='img-footer' src='../img/img-logo-oei.jpg' alt='imagen del logo de la OEI'></span>");
   $(window).resize(function(){
       if ($(window).width() > 700){
         $(".text-footer").html("©2018 Ministerio de Educacion Pública de Costa Rica. Todos los derechos reservados.<br>Elaborado por DIG y DRTE, en colaboración con la OEI")

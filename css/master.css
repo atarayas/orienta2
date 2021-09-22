@@ -68,10 +68,26 @@ a.btn-principal {
   color: black!important;
 
 }
+a.btn-text-encuentro {
+  color: white!important;
+}
 
 a.btn-principal:hover {
   color:white!important;
   font-weight: bold;
+}
+
+.btn-principal.focus, 
+.btn-principal.active,
+.btn-principal:not(:disabled):not(.disabled):active:focus
+{
+  color: transparent;
+  background-image: none;
+  background-color: transparent;
+  border: none;
+  border-color: transparent; 
+  box-shadow: none;
+  outline: none;
 }
 
 .ug-under-780.ug-videoskin-right-thumb .ug-thumb-title {
@@ -201,6 +217,17 @@ div.btn-col {
   box-shadow: 3px 3px 0px 0px rgba(0,159,199,0.61)!important;
     background-color: #F18C00!important;
 }
+.btn-encuentro {
+  border-radius: 10px 10px 10px 10px!important;
+  -moz-border-radius: 10px 10px 10px 10px!important;
+  -webkit-border-radius: 10px 10px 10px 10px!important;
+  border: 0px solid #e50b67!important;
+  -webkit-box-shadow: 3px 3px 0px 0px rgba(0,159,199,0.61)!important;
+  -moz-box-shadow: 3px 3px 0px 0px rgba(0,159,199,0.61)!important;
+  box-shadow: 3px 3px 0px 0px rgba(0,159,199,0.61)!important;
+    background-color: #e50b67!important;
+    color: white!important;
+}
 
 .ih-item.circle {
     max-width: 100px!important;
@@ -329,8 +356,9 @@ div.btn-col {
 .carousel, .carousel-inner, .carousel-item{
   max-height: 450px!important;
   max-width: 535px;
-  margin-top: 15%;
+  margin-top: 18%;
 }
+
 /* fin carousel */
 
 /* modal*/
