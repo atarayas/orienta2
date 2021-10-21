@@ -428,7 +428,17 @@
               </div>
             </div></a>
         </div> <!-- div item  -->
-        </div>  <!-- cierra row enlaces -->
+        <div class="ih-item circle colored effect1"><a href="uci.php">
+            <div class="spinner"></div>
+              <div class="img"><img src="../img/buttons/bt-uci.png" alt="img"></div>
+              <div class="info">
+              <div class="info-back">
+                  <h3>Click aquí</h3>
+                  <p>UCI</p>
+              </div>
+            </div></a>
+        </div> <!-- div item  -->
+        </div>  <!-- cierra row enlaces  PARAUNIVERSITARIAS-->
      <hr>
       <div class="row row-enlaces">
         <div class="col-sm-12">
